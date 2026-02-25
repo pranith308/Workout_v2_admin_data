@@ -1,0 +1,27 @@
+{
+  "commonMistakesText": "",
+  "cuesText": "",
+  "exerciseId": "ex_850e7e74",
+  "exerciseType": "ISOLATION",
+  "instructionsText": "",
+  "isDeleted": false,
+  "lastUpdatedAt": "2026-02-18T07:07:04.037380Z",
+  "media": {
+    "gifs": [
+      "warmup1.gif",
+      "warmup1_2.gif",
+      "warmup1_3.gif",
+      "warmup1_4.gif"
+    ],
+    "images": [
+      "warmup1_cues_1.webp",
+      "warmup1_cues_2.webp"
+    ],
+    "videos": []
+  },
+  "name": "warmup1",
+  "primaryMuscleGroup": "WARMUPS",
+  "secondaryMuscleGroups": [
+    "MOBILITY"
+  ]
+}

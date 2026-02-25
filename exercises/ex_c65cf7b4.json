@@ -1,0 +1,21 @@
+{
+  "commonMistakesText": "",
+  "cuesText": "",
+  "exerciseId": "ex_c65cf7b4",
+  "exerciseType": "ISOLATION",
+  "instructionsText": "",
+  "isDeleted": false,
+  "lastUpdatedAt": "2026-02-12T00:09:18.867972Z",
+  "media": {
+    "gifs": [
+      "Single_arm_DB_rows.gif"
+    ],
+    "images": [],
+    "videos": []
+  },
+  "name": "Single arm DB rows",
+  "primaryMuscleGroup": "BACK",
+  "secondaryMuscleGroups": [
+    "LATS"
+  ]
+}

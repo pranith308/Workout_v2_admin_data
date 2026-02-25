@@ -1,0 +1,26 @@
+{
+  "commonMistakesText": "",
+  "cuesText": "",
+  "exerciseId": "ex_1211dbf6",
+  "exerciseType": "COMPOUND",
+  "instructionsText": "",
+  "isDeleted": false,
+  "lastUpdatedAt": "2026-02-20T06:30:15.329721Z",
+  "media": {
+    "gifs": [
+      "Flat_Bench_Press_-_DB.gif"
+    ],
+    "images": [
+      "Flat_Bench_Press_-_DB_do_dont_1.webp",
+      "Flat_Bench_Press_-_DB_do_dont_2.webp",
+      "Flat_Bench_Press_-_DB_do_dont_3.webp",
+      "Flat_Bench_Press_-_DB_do_dont_4.webp"
+    ],
+    "videos": []
+  },
+  "name": "Flat Bench Press - DB",
+  "primaryMuscleGroup": "CHEST",
+  "secondaryMuscleGroups": [
+    "TRICEPS"
+  ]
+}

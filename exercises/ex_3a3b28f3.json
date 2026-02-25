@@ -1,0 +1,23 @@
+{
+  "commonMistakesText": "",
+  "cuesText": "",
+  "exerciseId": "ex_3a3b28f3",
+  "exerciseType": "COMPOUND",
+  "instructionsText": "",
+  "isDeleted": false,
+  "lastUpdatedAt": "2026-02-12T00:09:03.636697Z",
+  "media": {
+    "gifs": [
+      "Romanian_Deadlifts_DB.gif"
+    ],
+    "images": [],
+    "videos": []
+  },
+  "name": "Romanian Deadlifts DB",
+  "primaryMuscleGroup": "LEGS",
+  "secondaryMuscleGroups": [
+    "GLUTES",
+    "HAMSTRINGS",
+    "CORE"
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "description": "Private plan for Athaya/Mamayya.",
+  "isDeleted": false,
+  "isPublic": false,
+  "lastUpdatedAt": "2026-02-19T21:16:49.050995",
+  "name": "Upper Lower Workout",
+  "notes": "Simple 4 days/week  upper lower split. \nfocused on beginner and Elder people.\nonly equip needed: dumbells\ngood to have(not must) adjustable bench, weight bag straps",
+  "templateCode": "2207",
+  "templateId": "tpl_7a4f9649",
+  "workoutDays": [
+    {
+      "dayId": "86e228b7-bee1-4f0f-87eb-d79cea40a717",
+      "exercises": [
+        {
+          "defaultReps": 8,
+          "defaultSets": 3,
+          "exerciseId": "ex_1211dbf6",
+          "orderIndex": 0,
+          "unit": "KG"
+        },
+        {
+          "defaultReps": 8,
+          "defaultSets": 3,
+          "exerciseId": "ex_76e93843",
+          "orderIndex": 1,
+          "unit": "KG"
+        },
+        {
+          "defaultReps": 10,
+          "defaultSets": 3,
+          "exerciseId": "ex_c65cf7b4",
+          "orderIndex": 2,
+          "unit": "KG"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 2,
+          "exerciseId": "ex_98f1b474",
+          "orderIndex": 3,
+          "unit": "KG"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 2,
+          "exerciseId": "ex_b6b2d77d",
+          "orderIndex": 4,
+          "unit": "KG"
+        }
+      ],
+      "name": "Day 1- Upper Body",
+      "orderIndex": 0
+    },
+    {
+      "dayId": "96572385-d9b6-4893-9e53-e7b4ba7c585a",
+      "exercises": [
+        {
+          "defaultReps": 8,
+          "defaultSets": 3,
+          "exerciseId": "ex_3a3b28f3",
+          "orderIndex": 0,
+          "unit": "KG"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 3,
+          "exerciseId": "ex_2d7e0540",
+          "orderIndex": 1,
+          "unit": "KG"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 2,
+          "exerciseId": "ex_7e7f8659",
+          "orderIndex": 2,
+          "unit": "KG"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 2,
+          "exerciseId": "ex_f067251f",
+          "orderIndex": 3,
+          "unit": "KG"
+        }
+      ],
+      "name": "Day 2 - Lower Body",
+      "orderIndex": 1
+    },
+    {
+      "dayId": "67b6af9c-e33e-4cb2-8d45-f42076c24d63",
+      "exercises": [
+        {
+          "defaultReps": 10,
+          "defaultSets": 2,
+          "exerciseId": "ex_bfae6a5f",
+          "orderIndex": 0,
+          "unit": "KG"
+        },
+        {
+          "defaultReps": 10,
+          "defaultSets": 2,
+          "exerciseId": "ex_1211dbf6",
+          "orderIndex": 1,
+          "unit": "KG"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 2,
+          "exerciseId": "ex_c65cf7b4",
+          "orderIndex": 2,
+          "unit": "KG"
+        },
+        {
+          "defaultReps": 10,
+          "defaultSets": 2,
+          "exerciseId": "ex_2e4540c2",
+          "orderIndex": 3,
+          "unit": "KG"
+        }
+      ],
+      "name": "Day 3",
+      "orderIndex": 2
+    },
+    {
+      "dayId": "654cad6d-b642-4d58-aedb-240bb6df6e20",
+      "exercises": [],
+      "name": "Day 4",
+      "orderIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "commonMistakesText": "",
+  "cuesText": "",
+  "exerciseId": "ex_ddb75be3",
+  "exerciseType": "COMPOUND",
+  "instructionsText": "",
+  "isDeleted": false,
+  "lastUpdatedAt": "2026-02-12T00:05:55.320800Z",
+  "media": {
+    "gifs": [
+      "Bulgarian_Split_Squats.gif"
+    ],
+    "images": [],
+    "videos": []
+  },
+  "name": "Bulgarian Split Squats",
+  "primaryMuscleGroup": "QUADS",
+  "secondaryMuscleGroups": [
+    "HAMSTRINGS",
+    "GLUTES",
+    "LEGS"
+  ]
+}

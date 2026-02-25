@@ -1,0 +1,22 @@
+{
+  "commonMistakesText": "",
+  "cuesText": "",
+  "exerciseId": "ex_442cdac1",
+  "exerciseType": "ISOLATION",
+  "instructionsText": "",
+  "isDeleted": false,
+  "lastUpdatedAt": "2026-02-12T00:10:08.669759Z",
+  "media": {
+    "gifs": [
+      "wide_grip_Cable_rows.gif"
+    ],
+    "images": [],
+    "videos": []
+  },
+  "name": "wide grip Cable rows",
+  "primaryMuscleGroup": "BACK",
+  "secondaryMuscleGroups": [
+    "TRAPS",
+    "RHOMBOIDS"
+  ]
+}

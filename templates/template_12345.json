@@ -1,0 +1,44 @@
+{
+  "description": "",
+  "isDeleted": false,
+  "isPublic": false,
+  "lastUpdatedAt": "2026-02-17T23:25:47.079896",
+  "name": "testing",
+  "notes": "",
+  "templateCode": "12345",
+  "templateId": "tpl_6afe9c3c",
+  "workoutDays": [
+    {
+      "dayId": "fe47dab4-d9d2-4d05-80ba-a96a7081ebfa",
+      "exercises": [
+        {
+          "defaultReps": 12,
+          "defaultSets": 0,
+          "exerciseId": "ex_850e7e74",
+          "orderIndex": 0,
+          "unit": "KG"
+        }
+      ],
+      "name": "Day 1",
+      "orderIndex": 0
+    },
+    {
+      "dayId": "7587494d-980a-4dcb-ba17-a099c4c72cc0",
+      "exercises": [],
+      "name": "Day 2",
+      "orderIndex": 1
+    },
+    {
+      "dayId": "14f0cd5c-1d09-4613-ae10-396dbb71553b",
+      "exercises": [],
+      "name": "Day 3",
+      "orderIndex": 2
+    },
+    {
+      "dayId": "0a3fec82-560b-4728-8fa7-d508acca19f7",
+      "exercises": [],
+      "name": "Day 4",
+      "orderIndex": 3
+    }
+  ]
+}

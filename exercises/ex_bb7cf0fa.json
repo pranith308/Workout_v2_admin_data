@@ -1,0 +1,21 @@
+{
+  "commonMistakesText": "",
+  "cuesText": "",
+  "exerciseId": "ex_bb7cf0fa",
+  "exerciseType": "ISOLATION",
+  "instructionsText": "",
+  "isDeleted": false,
+  "lastUpdatedAt": "2026-02-12T00:20:51.074415Z",
+  "media": {
+    "gifs": [
+      "Lateral_Raises.gif"
+    ],
+    "images": [
+      "Lateral_Raises_do_dont_1.webp"
+    ],
+    "videos": []
+  },
+  "name": "Lateral Raises",
+  "primaryMuscleGroup": "SHOULDERS",
+  "secondaryMuscleGroups": []
+}

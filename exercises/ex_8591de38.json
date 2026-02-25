@@ -1,0 +1,21 @@
+{
+  "commonMistakesText": "",
+  "cuesText": "",
+  "exerciseId": "ex_8591de38",
+  "exerciseType": "ISOLATION",
+  "instructionsText": "",
+  "isDeleted": false,
+  "lastUpdatedAt": "2026-02-12T00:06:07.822004Z",
+  "media": {
+    "gifs": [
+      "Cable_rows.gif"
+    ],
+    "images": [],
+    "videos": []
+  },
+  "name": "Cable rows",
+  "primaryMuscleGroup": "BACK",
+  "secondaryMuscleGroups": [
+    "LATS"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "commonMistakesText": "",
+  "cuesText": "",
+  "exerciseId": "ex_2d7e0540",
+  "exerciseType": "COMPOUND",
+  "instructionsText": "",
+  "isDeleted": false,
+  "lastUpdatedAt": "2026-02-20T05:02:58.467191Z",
+  "media": {
+    "gifs": [],
+    "images": [],
+    "videos": []
+  },
+  "name": "Box goblet Squats",
+  "primaryMuscleGroup": "QUADS",
+  "secondaryMuscleGroups": [
+    "LEGS"
+  ]
+}

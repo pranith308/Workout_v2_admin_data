@@ -1,0 +1,21 @@
+{
+  "commonMistakesText": "",
+  "cuesText": "",
+  "exerciseId": "ex_66882d20",
+  "exerciseType": "COMPOUND",
+  "instructionsText": "",
+  "isDeleted": false,
+  "lastUpdatedAt": "2026-02-12T00:07:15.079004Z",
+  "media": {
+    "gifs": [
+      "Flat_Bench_Press_-_Bar.gif"
+    ],
+    "images": [],
+    "videos": []
+  },
+  "name": "Flat Bench Press - Bar",
+  "primaryMuscleGroup": "CHEST",
+  "secondaryMuscleGroups": [
+    "TRICEPS"
+  ]
+}

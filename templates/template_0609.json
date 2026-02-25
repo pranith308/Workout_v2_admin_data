@@ -1,0 +1,257 @@
+{
+  "description": "Classic PPL",
+  "isDeleted": false,
+  "isPublic": true,
+  "lastUpdatedAt": "2026-02-17T11:19:26.95276",
+  "name": "Push Pull Legs",
+  "notes": "Design Motivation:\n[PUSH][PULL][LEGS][REST][PUSH][PULL][LEGS][REST]\n\n1. Classic PPL format. \n2. Each muscle is targeted to hit 2 times/week.\n3. Each muscle gets 1 time heavy low rep, 1 time moderate high rep per week. \n4. Heavy Compound lifts are placed not to be in two consecutive days (easy on Joints).\n5. Good during high quality sleeps and nutrition. Recovery needs more priority for this Frequency.",
+  "templateCode": "0609",
+  "templateId": "tpl_5924f2f5",
+  "workoutDays": [
+    {
+      "dayId": "7a524f8a-5c2b-4b98-a134-22476d80567a",
+      "exercises": [
+        {
+          "defaultReps": 6,
+          "defaultSets": 3,
+          "exerciseId": "ex_66882d20",
+          "orderIndex": 0,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 8,
+          "defaultSets": 2,
+          "exerciseId": "ex_bfae6a5f",
+          "orderIndex": 1,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 1,
+          "exerciseId": "ex_4c6e33d6",
+          "orderIndex": 2,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 10,
+          "defaultSets": 2,
+          "exerciseId": "ex_76e93843",
+          "orderIndex": 3,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 2,
+          "exerciseId": "ex_bb7cf0fa",
+          "orderIndex": 4,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 3,
+          "exerciseId": "ex_cafe41f0",
+          "orderIndex": 5,
+          "unit": "LB"
+        }
+      ],
+      "name": "PUSH_1",
+      "orderIndex": 0
+    },
+    {
+      "dayId": "6f6d15ad-c911-4858-a964-1e43b5d20030",
+      "exercises": [
+        {
+          "defaultReps": 12,
+          "defaultSets": 3,
+          "exerciseId": "ex_d9285e5e",
+          "orderIndex": 0,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 8,
+          "defaultSets": 3,
+          "exerciseId": "ex_c65cf7b4",
+          "orderIndex": 1,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 10,
+          "defaultSets": 3,
+          "exerciseId": "ex_442cdac1",
+          "orderIndex": 2,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 8,
+          "defaultSets": 3,
+          "exerciseId": "ex_36c53e5f",
+          "orderIndex": 3,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 2,
+          "exerciseId": "ex_277d9265",
+          "orderIndex": 4,
+          "unit": "LB"
+        }
+      ],
+      "name": "PULL_1",
+      "orderIndex": 1
+    },
+    {
+      "dayId": "cdcad3e4-07e3-41fb-9851-81b276189f1a",
+      "exercises": [
+        {
+          "defaultReps": 6,
+          "defaultSets": 3,
+          "exerciseId": "ex_1009cc82",
+          "orderIndex": 0,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 8,
+          "defaultSets": 3,
+          "exerciseId": "ex_3a3b28f3",
+          "orderIndex": 1,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 2,
+          "exerciseId": "ex_7e7f8659",
+          "orderIndex": 2,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 10,
+          "defaultSets": 3,
+          "exerciseId": "ex_b209b442",
+          "orderIndex": 3,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 1,
+          "exerciseId": "ex_ddb75be3",
+          "orderIndex": 4,
+          "unit": "LB"
+        }
+      ],
+      "name": "LEGS_1",
+      "orderIndex": 2
+    },
+    {
+      "dayId": "ae28dc80-63ee-4eb5-8246-d03fcdba82df",
+      "exercises": [
+        {
+          "defaultReps": 8,
+          "defaultSets": 3,
+          "exerciseId": "ex_acf42831",
+          "orderIndex": 0,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 8,
+          "defaultSets": 3,
+          "exerciseId": "ex_bfae6a5f",
+          "orderIndex": 1,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 10,
+          "defaultSets": 2,
+          "exerciseId": "ex_1211dbf6",
+          "orderIndex": 2,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 2,
+          "exerciseId": "ex_4c6e33d6",
+          "orderIndex": 3,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 2,
+          "exerciseId": "ex_98f1b474",
+          "orderIndex": 4,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 10,
+          "defaultSets": 2,
+          "exerciseId": "ex_b0496ed9",
+          "orderIndex": 5,
+          "unit": "LB"
+        }
+      ],
+      "name": "PUSH_2",
+      "orderIndex": 3
+    },
+    {
+      "dayId": "a8ddd34b-797f-4816-ae75-042d32699352",
+      "exercises": [
+        {
+          "defaultReps": 6,
+          "defaultSets": 3,
+          "exerciseId": "ex_c88e2cd3",
+          "orderIndex": 0,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 3,
+          "exerciseId": "ex_442cdac1",
+          "orderIndex": 1,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 10,
+          "defaultSets": 3,
+          "exerciseId": "ex_2e23d68c",
+          "orderIndex": 2,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 10,
+          "defaultSets": 2,
+          "exerciseId": "ex_8591de38",
+          "orderIndex": 3,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 8,
+          "defaultSets": 2,
+          "exerciseId": "ex_709c6ed2",
+          "orderIndex": 4,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 10,
+          "defaultSets": 2,
+          "exerciseId": "ex_1de05305",
+          "orderIndex": 5,
+          "unit": "LB"
+        }
+      ],
+      "name": "PULL_2",
+      "orderIndex": 4
+    },
+    {
+      "dayId": "b18576cd-0be2-4eb7-82d1-f12f46111e98",
+      "exercises": [
+        {
+          "defaultReps": 6,
+          "defaultSets": 3,
+          "exerciseId": "ex_194e18c7",
+          "orderIndex": 0,
+          "unit": "LB"
+        }
+      ],
+      "name": "LEGS_2",
+      "orderIndex": 5
+    }
+  ]
+}
