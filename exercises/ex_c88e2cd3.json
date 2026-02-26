@@ -5,9 +5,11 @@
   "exerciseType": "COMPOUND",
   "instructionsText": "",
   "isDeleted": false,
-  "lastUpdatedAt": "2026-02-11T21:32:42.707171Z",
+  "lastUpdatedAt": "2026-02-26T00:54:20.692022Z",
   "media": {
-    "gifs": [],
+    "gifs": [
+      "Pendley_Rows.gif"
+    ],
     "images": [],
     "videos": []
   },
