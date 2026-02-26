@@ -5,12 +5,18 @@
   "exerciseType": "COMPOUND",
   "instructionsText": "",
   "isDeleted": false,
-  "lastUpdatedAt": "2026-02-12T00:17:26.819702Z",
+  "lastUpdatedAt": "2026-02-26T07:45:59.353510Z",
   "media": {
     "gifs": [
       "Shoulder_press_-_DB.gif"
     ],
-    "images": [],
+    "images": [
+      "Shoulder_press_-_DB_do_dont_1.webp",
+      "Shoulder_press_-_DB_do_dont_2.webp",
+      "Shoulder_press_-_DB_do_dont_3.webp",
+      "Shoulder_press_-_DB_do_dont_4.webp",
+      "Shoulder_press_-_DB_do_dont_5.gif"
+    ],
     "videos": []
   },
   "name": "Shoulder press - DB",

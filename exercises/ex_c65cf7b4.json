@@ -5,12 +5,19 @@
   "exerciseType": "ISOLATION",
   "instructionsText": "",
   "isDeleted": false,
-  "lastUpdatedAt": "2026-02-12T00:09:18.867972Z",
+  "lastUpdatedAt": "2026-02-26T07:45:01.373913Z",
   "media": {
     "gifs": [
-      "Single_arm_DB_rows.gif"
+      "Single_arm_DB_rows.gif",
+      "Single_arm_DB_rows_2.gif"
     ],
-    "images": [],
+    "images": [
+      "Single_arm_DB_rows_cues_1.gif",
+      "Single_arm_DB_rows_do_dont_1.webp",
+      "Single_arm_DB_rows_do_dont_2.webp",
+      "Single_arm_DB_rows_do_dont_3.webp",
+      "Single_arm_DB_rows_do_dont_4.gif"
+    ],
     "videos": []
   },
   "name": "Single arm DB rows",
