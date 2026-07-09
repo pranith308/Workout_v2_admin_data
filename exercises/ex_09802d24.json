@@ -1,0 +1,19 @@
+{
+  "commonMistakesText": "",
+  "cuesText": "",
+  "exerciseId": "ex_09802d24",
+  "exerciseType": "ISOLATION",
+  "instructionsText": "",
+  "isDeleted": false,
+  "lastUpdatedAt": "2026-05-17T16:03:34.593202Z",
+  "media": {
+    "gifs": [],
+    "images": [],
+    "videos": []
+  },
+  "name": "Standing Calf raises",
+  "primaryMuscleGroup": "LEGS",
+  "secondaryMuscleGroups": [
+    "CALVES"
+  ]
+}

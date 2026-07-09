@@ -1,0 +1,19 @@
+{
+  "commonMistakesText": "",
+  "cuesText": "",
+  "exerciseId": "ex_b6b2d77d",
+  "exerciseType": "ISOLATION",
+  "instructionsText": "",
+  "isDeleted": false,
+  "lastUpdatedAt": "2026-02-26T00:14:25.635909Z",
+  "media": {
+    "gifs": [
+      "Seated_Bicep_Curls.gif"
+    ],
+    "images": [],
+    "videos": []
+  },
+  "name": "Seated Bicep Curls",
+  "primaryMuscleGroup": "BICEPS",
+  "secondaryMuscleGroups": []
+}

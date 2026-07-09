@@ -1,0 +1,23 @@
+{
+  "commonMistakesText": "",
+  "cuesText": "",
+  "exerciseId": "ex_c0377550",
+  "exerciseType": "ISOLATION",
+  "instructionsText": "",
+  "isDeleted": false,
+  "lastUpdatedAt": "2026-07-08T22:59:51.542825Z",
+  "media": {
+    "gifs": [],
+    "images": [],
+    "videos": []
+  },
+  "name": "Battle ropes",
+  "primaryMuscleGroup": "SHOULDERS",
+  "secondaryMuscleGroups": [
+    "CHEST",
+    "BACK",
+    "TRICEPS",
+    "SHOULDERS",
+    "BICEPS"
+  ]
+}

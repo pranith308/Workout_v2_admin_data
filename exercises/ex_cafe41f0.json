@@ -1,0 +1,19 @@
+{
+  "commonMistakesText": "",
+  "cuesText": "",
+  "exerciseId": "ex_cafe41f0",
+  "exerciseType": "ISOLATION",
+  "instructionsText": "",
+  "isDeleted": false,
+  "lastUpdatedAt": "2026-02-12T00:09:53.164Z",
+  "media": {
+    "gifs": [
+      "Tricep_Rope_Pushdown.gif"
+    ],
+    "images": [],
+    "videos": []
+  },
+  "name": "Tricep Rope Pushdown",
+  "primaryMuscleGroup": "TRICEPS",
+  "secondaryMuscleGroups": []
+}

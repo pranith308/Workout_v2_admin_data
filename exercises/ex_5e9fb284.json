@@ -1,0 +1,21 @@
+{
+  "commonMistakesText": "",
+  "cuesText": "",
+  "exerciseId": "ex_5e9fb284",
+  "exerciseType": "ISOLATION",
+  "instructionsText": "",
+  "isDeleted": false,
+  "lastUpdatedAt": "2026-06-02T16:18:04.619565Z",
+  "media": {
+    "gifs": [
+      "Back_extensions.gif"
+    ],
+    "images": [],
+    "videos": []
+  },
+  "name": "Back extensions",
+  "primaryMuscleGroup": "BACK",
+  "secondaryMuscleGroups": [
+    "CORE"
+  ]
+}

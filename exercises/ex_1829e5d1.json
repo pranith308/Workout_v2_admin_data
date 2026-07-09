@@ -1,0 +1,21 @@
+{
+  "commonMistakesText": "",
+  "cuesText": "",
+  "exerciseId": "ex_1829e5d1",
+  "exerciseType": "ISOLATION",
+  "instructionsText": "focus on shoulder Extension (not adduction)",
+  "isDeleted": false,
+  "lastUpdatedAt": "2026-02-12T00:08:33.595118Z",
+  "media": {
+    "gifs": [
+      "Neutral_Grip_Lat_Pull_down.gif"
+    ],
+    "images": [],
+    "videos": []
+  },
+  "name": "Neutral Grip Lat Pull down",
+  "primaryMuscleGroup": "BACK",
+  "secondaryMuscleGroups": [
+    "LATS"
+  ]
+}

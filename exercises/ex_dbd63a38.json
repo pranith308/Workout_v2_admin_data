@@ -1,0 +1,20 @@
+{
+  "commonMistakesText": "",
+  "cuesText": "",
+  "exerciseId": "ex_dbd63a38",
+  "exerciseType": "ISOLATION",
+  "instructionsText": "",
+  "isDeleted": false,
+  "lastUpdatedAt": "2026-06-09T23:41:09.272475Z",
+  "media": {
+    "gifs": [
+      "Hip_adduction-abduction_machine.gif",
+      "Hip_adduction-abduction_machine_2.gif"
+    ],
+    "images": [],
+    "videos": []
+  },
+  "name": "Hip adduction-abduction machine",
+  "primaryMuscleGroup": "LEGS",
+  "secondaryMuscleGroups": []
+}

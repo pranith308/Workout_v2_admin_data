@@ -1,0 +1,21 @@
+{
+  "commonMistakesText": "",
+  "cuesText": "",
+  "exerciseId": "ex_f067251f",
+  "exerciseType": "ISOLATION",
+  "instructionsText": "",
+  "isDeleted": false,
+  "lastUpdatedAt": "2026-02-26T00:14:07.711652Z",
+  "media": {
+    "gifs": [
+      "Lying_Hamstring_Curls.gif"
+    ],
+    "images": [],
+    "videos": []
+  },
+  "name": "Lying Hamstring Curls",
+  "primaryMuscleGroup": "HAMSTRINGS",
+  "secondaryMuscleGroups": [
+    "LEGS"
+  ]
+}

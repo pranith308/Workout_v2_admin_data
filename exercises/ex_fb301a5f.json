@@ -1,0 +1,21 @@
+{
+  "commonMistakesText": "",
+  "cuesText": "",
+  "exerciseId": "ex_fb301a5f",
+  "exerciseType": "COMPOUND",
+  "instructionsText": "",
+  "isDeleted": false,
+  "lastUpdatedAt": "2026-06-09T14:38:44.573514Z",
+  "media": {
+    "gifs": [
+      "Leg_press_Machine.gif"
+    ],
+    "images": [],
+    "videos": []
+  },
+  "name": "Leg press Machine",
+  "primaryMuscleGroup": "QUADS",
+  "secondaryMuscleGroups": [
+    "LEGS"
+  ]
+}

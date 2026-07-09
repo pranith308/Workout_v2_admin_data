@@ -1,0 +1,21 @@
+{
+  "commonMistakesText": "",
+  "cuesText": "",
+  "exerciseId": "ex_da5d22a7",
+  "exerciseType": "ISOLATION",
+  "instructionsText": "",
+  "isDeleted": false,
+  "lastUpdatedAt": "2026-05-17T16:17:28.893223Z",
+  "media": {
+    "gifs": [],
+    "images": [],
+    "videos": []
+  },
+  "name": "Chest supported wide grip row Machine",
+  "primaryMuscleGroup": "BACK",
+  "secondaryMuscleGroups": [
+    "RHOMBOIDS",
+    "TRAPS",
+    "LATS"
+  ]
+}

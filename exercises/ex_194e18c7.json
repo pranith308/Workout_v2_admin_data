@@ -1,0 +1,23 @@
+{
+  "commonMistakesText": "",
+  "cuesText": "",
+  "exerciseId": "ex_194e18c7",
+  "exerciseType": "COMPOUND",
+  "instructionsText": "",
+  "isDeleted": false,
+  "lastUpdatedAt": "2026-02-12T00:06:53.487498Z",
+  "media": {
+    "gifs": [
+      "Conventional_Deadlifts.gif"
+    ],
+    "images": [],
+    "videos": []
+  },
+  "name": "Conventional Deadlifts",
+  "primaryMuscleGroup": "LEGS",
+  "secondaryMuscleGroups": [
+    "HAMSTRINGS",
+    "GLUTES",
+    "CORE"
+  ]
+}

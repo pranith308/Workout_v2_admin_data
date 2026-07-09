@@ -1,0 +1,21 @@
+{
+  "commonMistakesText": "",
+  "cuesText": "",
+  "exerciseId": "ex_acf42831",
+  "exerciseType": "ISOLATION",
+  "instructionsText": "",
+  "isDeleted": false,
+  "lastUpdatedAt": "2026-02-12T00:16:28.318217Z",
+  "media": {
+    "gifs": [
+      "Shoulder_Press_-_Bar.gif"
+    ],
+    "images": [],
+    "videos": []
+  },
+  "name": "Shoulder Press - Bar",
+  "primaryMuscleGroup": "SHOULDERS",
+  "secondaryMuscleGroups": [
+    "CORE"
+  ]
+}

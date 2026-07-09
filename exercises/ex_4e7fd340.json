@@ -1,0 +1,21 @@
+{
+  "commonMistakesText": "",
+  "cuesText": "",
+  "exerciseId": "ex_4e7fd340",
+  "exerciseType": "ISOLATION",
+  "instructionsText": "",
+  "isDeleted": false,
+  "lastUpdatedAt": "2026-05-12T20:47:58.845330Z",
+  "media": {
+    "gifs": [],
+    "images": [],
+    "videos": []
+  },
+  "name": "Sled Pushes",
+  "primaryMuscleGroup": "LEGS",
+  "secondaryMuscleGroups": [
+    "QUADS",
+    "GLUTES",
+    "CALVES"
+  ]
+}

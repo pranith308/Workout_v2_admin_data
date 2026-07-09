@@ -1,0 +1,19 @@
+{
+  "commonMistakesText": "",
+  "cuesText": "",
+  "exerciseId": "ex_fc7e4a51",
+  "exerciseType": "ISOLATION",
+  "instructionsText": "",
+  "isDeleted": false,
+  "lastUpdatedAt": "2026-07-08T22:59:08.824122Z",
+  "media": {
+    "gifs": [],
+    "images": [],
+    "videos": []
+  },
+  "name": "Lat Pull Over",
+  "primaryMuscleGroup": "LATS",
+  "secondaryMuscleGroups": [
+    "BACK"
+  ]
+}

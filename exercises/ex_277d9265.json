@@ -1,0 +1,19 @@
+{
+  "commonMistakesText": "",
+  "cuesText": "",
+  "exerciseId": "ex_277d9265",
+  "exerciseType": "ISOLATION",
+  "instructionsText": "",
+  "isDeleted": false,
+  "lastUpdatedAt": "2026-02-12T00:05:33.063904Z",
+  "media": {
+    "gifs": [
+      "Bicep_Curls_Cables.gif"
+    ],
+    "images": [],
+    "videos": []
+  },
+  "name": "Bicep Curls Cables",
+  "primaryMuscleGroup": "BICEPS",
+  "secondaryMuscleGroups": []
+}

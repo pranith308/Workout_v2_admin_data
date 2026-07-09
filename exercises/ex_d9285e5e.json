@@ -1,0 +1,19 @@
+{
+  "commonMistakesText": "",
+  "cuesText": "",
+  "exerciseId": "ex_d9285e5e",
+  "exerciseType": "ISOLATION",
+  "instructionsText": "",
+  "isDeleted": false,
+  "lastUpdatedAt": "2026-02-12T21:09:31.140945Z",
+  "media": {
+    "gifs": [],
+    "images": [],
+    "videos": []
+  },
+  "name": "Single arm Chest supported lat pull down",
+  "primaryMuscleGroup": "LATS",
+  "secondaryMuscleGroups": [
+    "BACK"
+  ]
+}

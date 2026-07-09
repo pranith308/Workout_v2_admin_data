@@ -1,0 +1,23 @@
+{
+  "commonMistakesText": "",
+  "cuesText": "",
+  "exerciseId": "ex_1009cc82",
+  "exerciseType": "COMPOUND",
+  "instructionsText": "",
+  "isDeleted": false,
+  "lastUpdatedAt": "2026-07-08T22:28:28.179133Z",
+  "media": {
+    "gifs": [
+      "Barbell_Squats.gif"
+    ],
+    "images": [],
+    "videos": []
+  },
+  "name": "Barbell Back Squats",
+  "primaryMuscleGroup": "LEGS",
+  "secondaryMuscleGroups": [
+    "GLUTES",
+    "QUADS",
+    "CORE"
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "description": "Upper lower split with focus on\n1. hip stability and knee cap improvement\n2. sled pushes , HIIT",
+  "isDeleted": false,
+  "isPublic": true,
+  "lastUpdatedAt": "2026-06-14T14:04:51.999991",
+  "name": "Upper Lower (HIIT - knee cap)",
+  "notes": "",
+  "templateCode": "2104",
+  "templateId": "tpl_99bc01ad",
+  "workoutDays": [
+    {
+      "dayId": "bbd956ee-0460-429a-bc92-5b998801859b",
+      "exercises": [
+        {
+          "defaultReps": 8,
+          "defaultSets": 3,
+          "exerciseId": "ex_1009cc82",
+          "orderIndex": 0,
+          "unit": "KG"
+        },
+        {
+          "defaultReps": 10,
+          "defaultSets": 4,
+          "exerciseId": "ex_3a3b28f3",
+          "orderIndex": 1,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 3,
+          "exerciseId": "ex_7e7f8659",
+          "orderIndex": 2,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 2,
+          "exerciseId": "ex_f067251f",
+          "orderIndex": 3,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 1,
+          "exerciseId": "ex_dbd63a38",
+          "orderIndex": 4,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 0,
+          "defaultSets": 2,
+          "exerciseId": "ex_aaeed8a6",
+          "orderIndex": 5,
+          "unit": "LB"
+        }
+      ],
+      "name": "Lower (Quad dominant)",
+      "orderIndex": 0
+    },
+    {
+      "dayId": "e12d5c1f-1727-441a-8b80-3834fa304478",
+      "exercises": [
+        {
+          "defaultReps": 8,
+          "defaultSets": 4,
+          "exerciseId": "ex_1211dbf6",
+          "orderIndex": 0,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 10,
+          "defaultSets": 3,
+          "exerciseId": "ex_76e93843",
+          "orderIndex": 1,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 2,
+          "exerciseId": "ex_4c6e33d6",
+          "orderIndex": 2,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 3,
+          "exerciseId": "ex_1829e5d1",
+          "orderIndex": 3,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 8,
+          "defaultSets": 3,
+          "exerciseId": "ex_5e9fb284",
+          "orderIndex": 4,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 2,
+          "exerciseId": "ex_8591de38",
+          "orderIndex": 5,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 1,
+          "exerciseId": "ex_e083bdf2",
+          "orderIndex": 6,
+          "unit": "LB"
+        }
+      ],
+      "name": "Upper (Chest dominant)",
+      "orderIndex": 1
+    },
+    {
+      "dayId": "a7696fbc-f48a-4eb3-9f59-da7c9e9f21f4",
+      "exercises": [
+        {
+          "defaultReps": 6,
+          "defaultSets": 4,
+          "exerciseId": "ex_194e18c7",
+          "orderIndex": 0,
+          "unit": "KG"
+        },
+        {
+          "defaultReps": 10,
+          "defaultSets": 3,
+          "exerciseId": "ex_fb301a5f",
+          "orderIndex": 1,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 2,
+          "exerciseId": "ex_f067251f",
+          "orderIndex": 2,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 10,
+          "defaultSets": 2,
+          "exerciseId": "ex_62504843",
+          "orderIndex": 3,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 0,
+          "defaultSets": 2,
+          "exerciseId": "ex_aaeed8a6",
+          "orderIndex": 4,
+          "unit": "LB"
+        }
+      ],
+      "name": "Lower (Hamstring dominant)",
+      "orderIndex": 2
+    },
+    {
+      "dayId": "05452667-eae3-480d-921a-4c65d153397f",
+      "exercises": [
+        {
+          "defaultReps": 10,
+          "defaultSets": 3,
+          "exerciseId": "ex_c49476e0",
+          "orderIndex": 0,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 3,
+          "exerciseId": "ex_2e23d68c",
+          "orderIndex": 1,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 8,
+          "defaultSets": 3,
+          "exerciseId": "ex_c65cf7b4",
+          "orderIndex": 2,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 8,
+          "defaultSets": 4,
+          "exerciseId": "ex_bfae6a5f",
+          "orderIndex": 3,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 2,
+          "exerciseId": "ex_5712e65a",
+          "orderIndex": 4,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 2,
+          "exerciseId": "ex_359060bd",
+          "orderIndex": 5,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 2,
+          "exerciseId": "ex_b0496ed9",
+          "orderIndex": 6,
+          "unit": "LB"
+        }
+      ],
+      "name": "Upper (Back dominant)",
+      "orderIndex": 3
+    }
+  ]
+}

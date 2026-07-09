@@ -1,0 +1,20 @@
+{
+  "commonMistakesText": "",
+  "cuesText": "",
+  "exerciseId": "ex_dc1787db",
+  "exerciseType": "COMPOUND",
+  "instructionsText": "",
+  "isDeleted": false,
+  "lastUpdatedAt": "2026-07-08T22:23:47.082479Z",
+  "media": {
+    "gifs": [],
+    "images": [],
+    "videos": []
+  },
+  "name": "Hip Thrust",
+  "primaryMuscleGroup": "GLUTES",
+  "secondaryMuscleGroups": [
+    "LEGS",
+    "HAMSTRINGS"
+  ]
+}

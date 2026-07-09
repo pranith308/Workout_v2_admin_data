@@ -1,0 +1,21 @@
+{
+  "commonMistakesText": "",
+  "cuesText": "",
+  "exerciseId": "ex_b209b442",
+  "exerciseType": "ISOLATION",
+  "instructionsText": "",
+  "isDeleted": false,
+  "lastUpdatedAt": "2026-02-12T00:08:09.573513Z",
+  "media": {
+    "gifs": [
+      "Leg_Curls_Seated.gif"
+    ],
+    "images": [],
+    "videos": []
+  },
+  "name": "Leg Curls Seated",
+  "primaryMuscleGroup": "HAMSTRINGS",
+  "secondaryMuscleGroups": [
+    "LEGS"
+  ]
+}

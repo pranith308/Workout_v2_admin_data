@@ -1,0 +1,21 @@
+{
+  "commonMistakesText": "",
+  "cuesText": "",
+  "exerciseId": "ex_bfae6a5f",
+  "exerciseType": "ISOLATION",
+  "instructionsText": "",
+  "isDeleted": false,
+  "lastUpdatedAt": "2026-02-12T00:07:44.232973Z",
+  "media": {
+    "gifs": [
+      "Incline_Press_-_DB.gif"
+    ],
+    "images": [],
+    "videos": []
+  },
+  "name": "Incline Press - DB",
+  "primaryMuscleGroup": "CHEST",
+  "secondaryMuscleGroups": [
+    "TRICEPS"
+  ]
+}

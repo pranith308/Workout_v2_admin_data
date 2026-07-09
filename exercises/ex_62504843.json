@@ -1,0 +1,25 @@
+{
+  "commonMistakesText": "",
+  "cuesText": "",
+  "exerciseId": "ex_62504843",
+  "exerciseType": "ISOLATION",
+  "instructionsText": "",
+  "isDeleted": false,
+  "lastUpdatedAt": "2026-06-09T16:07:52.477204Z",
+  "media": {
+    "gifs": [
+      "Bulgarian_split_squat_(Quad).gif"
+    ],
+    "images": [],
+    "videos": [
+      "https://youtube.com/shorts/qHDB5HkOrrs?si\u003dvtLmsuLkS9ZMgcwM"
+    ]
+  },
+  "name": "Bulgarian split squat (Quad)",
+  "primaryMuscleGroup": "LEGS",
+  "secondaryMuscleGroups": [
+    "QUADS",
+    "GLUTES",
+    "LEGS"
+  ]
+}

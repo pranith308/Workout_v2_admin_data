@@ -1,0 +1,21 @@
+{
+  "commonMistakesText": "",
+  "cuesText": "",
+  "exerciseId": "ex_9ae90ccd",
+  "exerciseType": "COMPOUND",
+  "instructionsText": "",
+  "isDeleted": false,
+  "lastUpdatedAt": "2026-07-08T22:21:43.525160Z",
+  "media": {
+    "gifs": [],
+    "images": [],
+    "videos": []
+  },
+  "name": "Trap bar Deadlifts",
+  "primaryMuscleGroup": "LEGS",
+  "secondaryMuscleGroups": [
+    "QUADS",
+    "GLUTES",
+    "HAMSTRINGS"
+  ]
+}

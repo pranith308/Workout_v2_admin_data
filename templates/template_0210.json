@@ -1,0 +1,131 @@
+{
+  "description": "3 days split. \nupper body\n lower body \nrest 2-3 days\nFull body",
+  "isDeleted": false,
+  "isPublic": true,
+  "lastUpdatedAt": "2026-03-10T23:33:28.652940Z",
+  "name": "Upper-Lower-Full Body",
+  "notes": "",
+  "templateCode": "0210",
+  "templateId": "tpl_fd1dd8d8",
+  "workoutDays": [
+    {
+      "dayId": "cf5e181e-d2ba-4b1b-9690-08c3016d41f5",
+      "exercises": [
+        {
+          "defaultReps": 10,
+          "defaultSets": 3,
+          "exerciseId": "ex_3a3b28f3",
+          "orderIndex": 0,
+          "unit": "KG"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 3,
+          "exerciseId": "ex_2d7e0540",
+          "orderIndex": 1,
+          "unit": "KG"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 2,
+          "exerciseId": "ex_078fea98",
+          "orderIndex": 2,
+          "unit": "KG"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 2,
+          "exerciseId": "ex_7e7f8659",
+          "orderIndex": 3,
+          "unit": "KG"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 2,
+          "exerciseId": "ex_f067251f",
+          "orderIndex": 4,
+          "unit": "KG"
+        }
+      ],
+      "name": "Lower Body",
+      "orderIndex": 0
+    },
+    {
+      "dayId": "34063bb8-2fb2-485f-b290-058f7eb9561f",
+      "exercises": [
+        {
+          "defaultReps": 8,
+          "defaultSets": 4,
+          "exerciseId": "ex_1211dbf6",
+          "orderIndex": 0,
+          "unit": "KG"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 4,
+          "exerciseId": "ex_c65cf7b4",
+          "orderIndex": 1,
+          "unit": "KG"
+        },
+        {
+          "defaultReps": 10,
+          "defaultSets": 3,
+          "exerciseId": "ex_76e93843",
+          "orderIndex": 2,
+          "unit": "KG"
+        },
+        {
+          "defaultReps": 10,
+          "defaultSets": 2,
+          "exerciseId": "ex_36c53e5f",
+          "orderIndex": 3,
+          "unit": "KG"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 2,
+          "exerciseId": "ex_b0496ed9",
+          "orderIndex": 4,
+          "unit": "KG"
+        }
+      ],
+      "name": "Upper body",
+      "orderIndex": 1
+    },
+    {
+      "dayId": "d468060e-c8ac-47dc-ab5c-559d84a887f2",
+      "exercises": [
+        {
+          "defaultReps": 10,
+          "defaultSets": 3,
+          "exerciseId": "ex_bfae6a5f",
+          "orderIndex": 0,
+          "unit": "KG"
+        },
+        {
+          "defaultReps": 8,
+          "defaultSets": 3,
+          "exerciseId": "ex_2d7e0540",
+          "orderIndex": 1,
+          "unit": "KG"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 3,
+          "exerciseId": "ex_c65cf7b4",
+          "orderIndex": 2,
+          "unit": "KG"
+        },
+        {
+          "defaultReps": 10,
+          "defaultSets": 3,
+          "exerciseId": "ex_3a3b28f3",
+          "orderIndex": 3,
+          "unit": "KG"
+        }
+      ],
+      "name": "Full Body",
+      "orderIndex": 2
+    }
+  ]
+}

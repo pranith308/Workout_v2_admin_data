@@ -1,0 +1,22 @@
+{
+  "commonMistakesText": "",
+  "cuesText": "",
+  "exerciseId": "ex_283bc5e2",
+  "exerciseType": "ISOLATION",
+  "instructionsText": "",
+  "isDeleted": false,
+  "lastUpdatedAt": "2026-05-12T20:47:33.984938Z",
+  "media": {
+    "gifs": [],
+    "images": [],
+    "videos": []
+  },
+  "name": "Sled Pulls",
+  "primaryMuscleGroup": "LEGS",
+  "secondaryMuscleGroups": [
+    "LEGS",
+    "GLUTES",
+    "HAMSTRINGS",
+    "CALVES"
+  ]
+}

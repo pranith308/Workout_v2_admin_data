@@ -1,0 +1,21 @@
+{
+  "commonMistakesText": "",
+  "cuesText": "",
+  "exerciseId": "ex_7e7f8659",
+  "exerciseType": "ISOLATION",
+  "instructionsText": "",
+  "isDeleted": false,
+  "lastUpdatedAt": "2026-02-12T00:08:18.986403Z",
+  "media": {
+    "gifs": [
+      "Leg_Extensions.gif"
+    ],
+    "images": [],
+    "videos": []
+  },
+  "name": "Leg Extensions",
+  "primaryMuscleGroup": "QUADS",
+  "secondaryMuscleGroups": [
+    "LEGS"
+  ]
+}
