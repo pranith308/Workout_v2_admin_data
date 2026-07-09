@@ -5,9 +5,11 @@
   "exerciseType": "ISOLATION",
   "instructionsText": "",
   "isDeleted": false,
-  "lastUpdatedAt": "2026-07-08T22:59:51.542825Z",
+  "lastUpdatedAt": "2026-07-09T03:50:21.295722Z",
   "media": {
-    "gifs": [],
+    "gifs": [
+      "Battle_ropes.gif"
+    ],
     "images": [],
     "videos": []
   },

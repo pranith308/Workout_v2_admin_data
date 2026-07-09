@@ -5,9 +5,11 @@
   "exerciseType": "ISOLATION",
   "instructionsText": "",
   "isDeleted": false,
-  "lastUpdatedAt": "2026-02-20T05:14:02.624469Z",
+  "lastUpdatedAt": "2026-07-09T03:50:33.332111Z",
   "media": {
-    "gifs": [],
+    "gifs": [
+      "Chest_supported_DB_rows.gif"
+    ],
     "images": [],
     "videos": []
   },
