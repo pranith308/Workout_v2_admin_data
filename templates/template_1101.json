@@ -2,7 +2,7 @@
   "description": "Time focused",
   "isDeleted": false,
   "isPublic": true,
-  "lastUpdatedAt": "2026-07-08T16:01:24.467054",
+  "lastUpdatedAt": "2026-07-09T20:03:23.087602",
   "name": "Upper-Lower(Time focused)",
   "notes": "",
   "templateCode": "1101",
@@ -28,7 +28,7 @@
         {
           "defaultReps": 12,
           "defaultSets": 3,
-          "exerciseId": "ex_b209b442",
+          "exerciseId": "ex_f067251f",
           "orderIndex": 2,
           "unit": "LB"
         },
