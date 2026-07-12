@@ -1,0 +1,18 @@
+{
+  "foods": [
+    {
+      "foodId": "food_a18f54ed",
+      "quantity": 1.0
+    },
+    {
+      "foodId": "food_c5cba5dd",
+      "quantity": 2.0
+    },
+    {
+      "foodId": "food_a661bf25",
+      "quantity": 1.0
+    }
+  ],
+  "mealId": "recipe_4d869b76",
+  "name": "Eggs-Coffee Breakfast"
+}

@@ -63,13 +63,24 @@
     "ex_850e7e74",
     "ex_442cdac1"
   ],
-  "lastUpdatedTimestamp": "2026-07-11T04:09:18.539632Z",
+  "foods": [
+    "food_89449964",
+    "food_a18f54ed",
+    "food_c5cba5dd",
+    "food_37f1823d",
+    "food_a661bf25",
+    "food_7f7e3ed7"
+  ],
+  "lastUpdatedTimestamp": "2026-07-12T06:14:40.974193Z",
   "meals": [
     "meal_7bca2d83",
     "meal_8d6e56f7",
     "meal_3efdc324",
     "meal_8a78ab34",
     "meal_5fb76d78"
+  ],
+  "recipes": [
+    "recipe_4d869b76"
   ],
   "templates": [
     "0609",
