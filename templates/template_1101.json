@@ -2,7 +2,7 @@
   "description": "Time focused",
   "isDeleted": false,
   "isPublic": true,
-  "lastUpdatedAt": "2026-07-10T20:59:20.242807",
+  "lastUpdatedAt": "2026-07-13T21:38:30.780309",
   "name": "Upper-Lower(Time focused)",
   "notes": "",
   "templateCode": "1101",
@@ -124,11 +124,11 @@
           "unit": "LB"
         },
         {
-          "defaultReps": 30,
+          "defaultReps": 12,
           "defaultSets": 2,
           "exerciseId": "ex_aaeed8a6",
           "orderIndex": 4,
-          "unit": "SECONDS"
+          "unit": "LB"
         }
       ],
       "name": "Lower B - Isolation",
