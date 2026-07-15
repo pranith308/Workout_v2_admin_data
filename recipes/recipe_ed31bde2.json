@@ -1,0 +1,22 @@
+{
+  "foods": [
+    {
+      "foodId": "food_680fb9a2",
+      "quantity": 0.5
+    },
+    {
+      "foodId": "food_e72a1d18",
+      "quantity": 1.0
+    },
+    {
+      "foodId": "food_a8a88b2e",
+      "quantity": 0.5
+    },
+    {
+      "foodId": "food_45074b81",
+      "quantity": 1.0
+    }
+  ],
+  "mealId": "recipe_ed31bde2",
+  "name": "Protein Mango Yogurt"
+}

@@ -1,0 +1,26 @@
+{
+  "foods": [
+    {
+      "foodId": "food_1a95b2c9",
+      "quantity": 10.0
+    },
+    {
+      "foodId": "food_4061e778",
+      "quantity": 1.1
+    },
+    {
+      "foodId": "food_fcbc8d63",
+      "quantity": 5.0
+    },
+    {
+      "foodId": "food_c5cba5dd",
+      "quantity": 1.0
+    },
+    {
+      "foodId": "food_dc17e915",
+      "quantity": 1.0
+    }
+  ],
+  "mealId": "recipe_f6eacdec",
+  "name": "Chicken Egg Chapati Roll"
+}
