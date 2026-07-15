@@ -1,0 +1,22 @@
+{
+  "foods": [
+    {
+      "foodId": "food_1a95b2c9",
+      "quantity": 10.0
+    },
+    {
+      "foodId": "food_fcbc8d63",
+      "quantity": 20.0
+    },
+    {
+      "foodId": "food_e5c0ca96",
+      "quantity": 1.0
+    },
+    {
+      "foodId": "food_c5cba5dd",
+      "quantity": 1.0
+    }
+  ],
+  "mealId": "recipe_93735e04",
+  "name": "Egg hakka Noodles"
+}
