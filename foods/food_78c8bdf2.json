@@ -1,0 +1,19 @@
+{
+  "calories": 340.8,
+  "carbs": 60.6,
+  "equivalents": [
+    {
+      "amount": 0.5,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 1.2,
+  "fiber": 15,
+  "foodId": "food_78c8bdf2",
+  "name": "Great Northern Beans",
+  "protein": 21.9,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 15,
+  "sugars": 0
+}
