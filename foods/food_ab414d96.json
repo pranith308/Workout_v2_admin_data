@@ -1,0 +1,19 @@
+{
+  "calories": 361.6,
+  "carbs": 70,
+  "equivalents": [
+    {
+      "amount": 0.8,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 2.4,
+  "fiber": 10.7,
+  "foodId": "food_ab414d96",
+  "name": "Spelt Flour",
+  "protein": 15,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 2,
+  "sugars": 0
+}

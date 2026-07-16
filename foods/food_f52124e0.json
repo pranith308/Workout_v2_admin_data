@@ -1,0 +1,19 @@
+{
+  "calories": 331.3,
+  "carbs": 72.6,
+  "equivalents": [
+    {
+      "amount": 0.7,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 1.3,
+  "fiber": 11.5,
+  "foodId": "food_f52124e0",
+  "name": "Finger Millet (Ragi / Nachni)",
+  "protein": 7.3,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 11,
+  "sugars": 0
+}

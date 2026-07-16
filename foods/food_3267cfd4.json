@@ -1,0 +1,19 @@
+{
+  "calories": 394.9,
+  "carbs": 66.3,
+  "equivalents": [
+    {
+      "amount": 1.3,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 6.9,
+  "fiber": 10.6,
+  "foodId": "food_3267cfd4",
+  "name": "Oats (Rolled)",
+  "protein": 16.9,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 2,
+  "sugars": 0
+}

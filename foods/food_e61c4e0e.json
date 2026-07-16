@@ -1,0 +1,19 @@
+{
+  "calories": 349,
+  "carbs": 60,
+  "equivalents": [
+    {
+      "amount": 0.5,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 1,
+  "fiber": 11,
+  "foodId": "food_e61c4e0e",
+  "name": "French Green Lentils",
+  "protein": 25,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 6,
+  "sugars": 0
+}

@@ -1,0 +1,19 @@
+{
+  "calories": 48.5,
+  "carbs": 9.6,
+  "equivalents": [
+    {
+      "amount": 0.7,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 0.5,
+  "fiber": 5.3,
+  "foodId": "food_15541697",
+  "name": "Blackberry",
+  "protein": 1.4,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 1,
+  "sugars": 0
+}

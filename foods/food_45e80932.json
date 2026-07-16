@@ -1,0 +1,19 @@
+{
+  "calories": 383.2,
+  "carbs": 58.4,
+  "equivalents": [
+    {
+      "amount": 9,
+      "unit": "TBSP"
+    }
+  ],
+  "fats": 6.4,
+  "fiber": 24.6,
+  "foodId": "food_45e80932",
+  "name": "Fenugreek Seeds (Methi Dana)",
+  "protein": 23,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 67,
+  "sugars": 0
+}

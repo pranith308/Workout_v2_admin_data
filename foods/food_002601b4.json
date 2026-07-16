@@ -1,0 +1,19 @@
+{
+  "calories": 51.1,
+  "carbs": 11.4,
+  "equivalents": [
+    {
+      "amount": 0.7,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 0.3,
+  "fiber": 1.4,
+  "foodId": "food_002601b4",
+  "name": "Plum",
+  "protein": 0.7,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 0,
+  "sugars": 0
+}

@@ -1,0 +1,19 @@
+{
+  "calories": 342.8,
+  "carbs": 60,
+  "equivalents": [
+    {
+      "amount": 0.5,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 1.2,
+  "fiber": 16,
+  "foodId": "food_63c01783",
+  "name": "Cranberry Beans (Borlotti)",
+  "protein": 23,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 8,
+  "sugars": 0
+}

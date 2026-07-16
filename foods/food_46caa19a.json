@@ -1,0 +1,19 @@
+{
+  "calories": 448.7,
+  "carbs": 44.2,
+  "equivalents": [
+    {
+      "amount": 12,
+      "unit": "TBSP"
+    }
+  ],
+  "fats": 22.3,
+  "fiber": 10.5,
+  "foodId": "food_46caa19a",
+  "name": "Cumin Seeds (Jeera)",
+  "protein": 17.8,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 168,
+  "sugars": 0
+}

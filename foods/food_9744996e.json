@@ -1,0 +1,19 @@
+{
+  "calories": 91.5,
+  "carbs": 20,
+  "equivalents": [
+    {
+      "amount": 0.6,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 1.1,
+  "fiber": 5.3,
+  "foodId": "food_9744996e",
+  "name": "Chickoo (Sapodilla)",
+  "protein": 0.4,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 12,
+  "sugars": 0
+}

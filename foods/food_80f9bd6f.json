@@ -1,0 +1,19 @@
+{
+  "calories": 36.3,
+  "carbs": 7.7,
+  "equivalents": [
+    {
+      "amount": 0.7,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 0.3,
+  "fiber": 2,
+  "foodId": "food_80f9bd6f",
+  "name": "Strawberry",
+  "protein": 0.7,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 1,
+  "sugars": 0
+}

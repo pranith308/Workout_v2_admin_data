@@ -1,0 +1,19 @@
+{
+  "calories": 369.4,
+  "carbs": 71.5,
+  "equivalents": [
+    {
+      "amount": 0.6,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 3.4,
+  "fiber": 10,
+  "foodId": "food_4de87312",
+  "name": "Buckwheat (Kuttu)",
+  "protein": 13.2,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 11,
+  "sugars": 0
+}

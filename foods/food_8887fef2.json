@@ -1,0 +1,19 @@
+{
+  "calories": 72.8,
+  "carbs": 16.5,
+  "equivalents": [
+    {
+      "amount": 0.6,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 0.4,
+  "fiber": 1.3,
+  "foodId": "food_8887fef2",
+  "name": "Lychee",
+  "protein": 0.8,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 1,
+  "sugars": 0
+}

@@ -1,0 +1,19 @@
+{
+  "calories": 162.5,
+  "carbs": 33.1,
+  "equivalents": [
+    {
+      "amount": 10,
+      "unit": "TBSP"
+    }
+  ],
+  "fats": 0.5,
+  "fiber": 2.1,
+  "foodId": "food_7eb470ce",
+  "name": "Garlic",
+  "protein": 6.4,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 17,
+  "sugars": 0
+}

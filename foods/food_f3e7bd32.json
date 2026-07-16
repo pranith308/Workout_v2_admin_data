@@ -1,0 +1,19 @@
+{
+  "calories": 45.8,
+  "carbs": 9,
+  "equivalents": [
+    {
+      "amount": 10,
+      "unit": "TBSP"
+    }
+  ],
+  "fats": 0.2,
+  "fiber": 1.5,
+  "foodId": "food_f3e7bd32",
+  "name": "Green Chilies",
+  "protein": 2,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 7,
+  "sugars": 0
+}

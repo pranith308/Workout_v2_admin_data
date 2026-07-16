@@ -1,0 +1,19 @@
+{
+  "calories": 368.1,
+  "carbs": 64.2,
+  "equivalents": [
+    {
+      "amount": 0.6,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 6.1,
+  "fiber": 7,
+  "foodId": "food_90daadfb",
+  "name": "Quinoa",
+  "protein": 14.1,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 5,
+  "sugars": 0
+}

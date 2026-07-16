@@ -1,0 +1,19 @@
+{
+  "calories": 76.6,
+  "carbs": 14.3,
+  "equivalents": [
+    {
+      "amount": 0.6,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 1,
+  "fiber": 5.4,
+  "foodId": "food_b49f9285",
+  "name": "Guava (Amrood)",
+  "protein": 2.6,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 2,
+  "sugars": 0
+}

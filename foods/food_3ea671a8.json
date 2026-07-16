@@ -1,0 +1,19 @@
+{
+  "calories": 27.7,
+  "carbs": 3.7,
+  "equivalents": [
+    {
+      "amount": 4,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 0.5,
+  "fiber": 2.8,
+  "foodId": "food_3ea671a8",
+  "name": "Coriander Leaves (Cilantro)",
+  "protein": 2.1,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 46,
+  "sugars": 0
+}

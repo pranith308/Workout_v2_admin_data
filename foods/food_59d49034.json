@@ -1,0 +1,19 @@
+{
+  "calories": 46.6,
+  "carbs": 9.6,
+  "equivalents": [
+    {
+      "amount": 0.8,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 0.2,
+  "fiber": 2.8,
+  "foodId": "food_59d49034",
+  "name": "Beetroot",
+  "protein": 1.6,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 78,
+  "sugars": 0
+}

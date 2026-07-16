@@ -1,0 +1,19 @@
+{
+  "calories": 348.6,
+  "carbs": 62.4,
+  "equivalents": [
+    {
+      "amount": 0.5,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 1.4,
+  "fiber": 15.5,
+  "foodId": "food_229b8322",
+  "name": "Black Beans",
+  "protein": 21.6,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 5,
+  "sugars": 0
+}

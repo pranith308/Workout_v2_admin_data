@@ -1,0 +1,19 @@
+{
+  "calories": 333.6,
+  "carbs": 63.2,
+  "equivalents": [
+    {
+      "amount": 0.7,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 4,
+  "fiber": 6.7,
+  "foodId": "food_2984128b",
+  "name": "Foxtail Millet (Kangni)",
+  "protein": 11.2,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 5,
+  "sugars": 0
+}

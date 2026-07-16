@@ -1,0 +1,19 @@
+{
+  "calories": 347.3,
+  "carbs": 76.9,
+  "equivalents": [
+    {
+      "amount": 3,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 0.1,
+  "fiber": 14.5,
+  "foodId": "food_f5c0a63b",
+  "name": "Lotus Seeds (Foxnuts / Makhana)",
+  "protein": 9.7,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 5,
+  "sugars": 0
+}

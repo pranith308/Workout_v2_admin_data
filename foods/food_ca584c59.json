@@ -1,0 +1,19 @@
+{
+  "calories": 361,
+  "carbs": 59,
+  "equivalents": [
+    {
+      "amount": 0.5,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 5,
+  "fiber": 17,
+  "foodId": "food_ca584c59",
+  "name": "Kala Chana (Black Chickpeas)",
+  "protein": 20,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 20,
+  "sugars": 0
+}

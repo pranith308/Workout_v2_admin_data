@@ -1,0 +1,19 @@
+{
+  "calories": 264,
+  "carbs": 1.2,
+  "equivalents": [
+    {
+      "amount": 0.7,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 20.8,
+  "fiber": 0,
+  "foodId": "food_b83b89c8",
+  "name": "Paneer (Cottage Cheese)",
+  "protein": 18,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 15,
+  "sugars": 0
+}

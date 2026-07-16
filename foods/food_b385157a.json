@@ -1,0 +1,19 @@
+{
+  "calories": 406.5,
+  "carbs": 52.3,
+  "equivalents": [
+    {
+      "amount": 11,
+      "unit": "TBSP"
+    }
+  ],
+  "fats": 14.9,
+  "fiber": 39.8,
+  "foodId": "food_b385157a",
+  "name": "Fennel Seeds (Saunf)",
+  "protein": 15.8,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 88,
+  "sugars": 0
+}

@@ -1,0 +1,19 @@
+{
+  "calories": 174.2,
+  "carbs": 3,
+  "equivalents": [
+    {
+      "amount": 0.4,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 13,
+  "fiber": 0,
+  "foodId": "food_07455d59",
+  "name": "Ricotta Cheese",
+  "protein": 11.3,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 84,
+  "sugars": 0
+}

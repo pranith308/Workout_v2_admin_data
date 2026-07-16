@@ -1,0 +1,19 @@
+{
+  "calories": 105.5,
+  "carbs": 23.6,
+  "equivalents": [
+    {
+      "amount": 0.6,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 0.3,
+  "fiber": 4.4,
+  "foodId": "food_621bbd81",
+  "name": "Custard Apple (Sitaphal)",
+  "protein": 2.1,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 9,
+  "sugars": 0
+}

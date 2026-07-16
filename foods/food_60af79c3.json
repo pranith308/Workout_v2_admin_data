@@ -1,0 +1,19 @@
+{
+  "calories": 359.1,
+  "carbs": 76.2,
+  "equivalents": [
+    {
+      "amount": 0.5,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 2.7,
+  "fiber": 3.4,
+  "foodId": "food_60af79c3",
+  "name": "Brown Rice",
+  "protein": 7.5,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 4,
+  "sugars": 0
+}

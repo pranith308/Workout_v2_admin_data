@@ -1,0 +1,19 @@
+{
+  "calories": 354.7,
+  "carbs": 80,
+  "equivalents": [
+    {
+      "amount": 0.5,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 0.7,
+  "fiber": 1.3,
+  "foodId": "food_e24a1d84",
+  "name": "White Rice (Basmati)",
+  "protein": 7.1,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 5,
+  "sugars": 0
+}

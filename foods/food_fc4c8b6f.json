@@ -1,0 +1,19 @@
+{
+  "calories": 368.3,
+  "carbs": 74.9,
+  "equivalents": [
+    {
+      "amount": 0.6,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 1.1,
+  "fiber": 6.2,
+  "foodId": "food_fc4c8b6f",
+  "name": "Wild Rice",
+  "protein": 14.7,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 7,
+  "sugars": 0
+}

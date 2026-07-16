@@ -1,0 +1,19 @@
+{
+  "calories": 503,
+  "carbs": 17,
+  "equivalents": [
+    {
+      "amount": 0.8,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 39,
+  "fiber": 12,
+  "foodId": "food_fd0fc0bb",
+  "name": "Niger Seeds",
+  "protein": 21,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 5,
+  "sugars": 0
+}

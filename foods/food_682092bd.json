@@ -1,0 +1,19 @@
+{
+  "calories": 306.6,
+  "carbs": 65.5,
+  "equivalents": [
+    {
+      "amount": 0.7,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 2.2,
+  "fiber": 9.8,
+  "foodId": "food_682092bd",
+  "name": "Barnyard Millet (Sanwa)",
+  "protein": 6.2,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 5,
+  "sugars": 0
+}

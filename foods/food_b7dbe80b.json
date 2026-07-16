@@ -1,0 +1,19 @@
+{
+  "calories": 264.9,
+  "carbs": 4.1,
+  "equivalents": [
+    {
+      "amount": 0.7,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 21.3,
+  "fiber": 0,
+  "foodId": "food_b7dbe80b",
+  "name": "Feta Cheese",
+  "protein": 14.2,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 1116,
+  "sugars": 0
+}

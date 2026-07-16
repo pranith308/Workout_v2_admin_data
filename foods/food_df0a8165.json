@@ -1,0 +1,19 @@
+{
+  "calories": 34.5,
+  "carbs": 5,
+  "equivalents": [
+    {
+      "amount": 0.4,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 0.1,
+  "fiber": 0,
+  "foodId": "food_df0a8165",
+  "name": "Skimmed Milk - per 100ml",
+  "protein": 3.4,
+  "servingSize": 100,
+  "servingUnit": "MILLILITER",
+  "sodium": 40,
+  "sugars": 0
+}

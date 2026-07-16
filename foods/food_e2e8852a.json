@@ -1,0 +1,19 @@
+{
+  "calories": 350.8,
+  "carbs": 60.4,
+  "equivalents": [
+    {
+      "amount": 0.5,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 1.2,
+  "fiber": 25.5,
+  "foodId": "food_e2e8852a",
+  "name": "Green Peas (Dry)",
+  "protein": 24.6,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 35,
+  "sugars": 0
+}

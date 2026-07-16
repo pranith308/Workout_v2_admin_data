@@ -1,0 +1,19 @@
+{
+  "calories": 16.9,
+  "carbs": 3.4,
+  "equivalents": [
+    {
+      "amount": 0.9,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 0.1,
+  "fiber": 0.5,
+  "foodId": "food_603042b8",
+  "name": "Bottle Gourd (Lauki)",
+  "protein": 0.6,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 2,
+  "sugars": 0
+}

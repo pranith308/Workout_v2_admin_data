@@ -1,0 +1,19 @@
+{
+  "calories": 345.9,
+  "carbs": 60.8,
+  "equivalents": [
+    {
+      "amount": 0.5,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 1.5,
+  "fiber": 24.4,
+  "foodId": "food_b957bdd9",
+  "name": "Navy Beans",
+  "protein": 22.3,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 5,
+  "sugars": 0
+}

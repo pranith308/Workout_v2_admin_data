@@ -1,0 +1,19 @@
+{
+  "calories": 704,
+  "carbs": 12.3,
+  "equivalents": [
+    {
+      "amount": 0.8,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 66.4,
+  "fiber": 7.5,
+  "foodId": "food_4789c2ba",
+  "name": "Brazil Nuts",
+  "protein": 14.3,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 3,
+  "sugars": 0
+}

@@ -1,0 +1,19 @@
+{
+  "calories": 429.8,
+  "carbs": 55,
+  "equivalents": [
+    {
+      "amount": 10,
+      "unit": "TBSP"
+    }
+  ],
+  "fats": 17.8,
+  "fiber": 41.9,
+  "foodId": "food_6c09d0f5",
+  "name": "Coriander Seeds (Dhania)",
+  "protein": 12.4,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 35,
+  "sugars": 0
+}

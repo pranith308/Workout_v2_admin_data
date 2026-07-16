@@ -1,0 +1,19 @@
+{
+  "calories": 356.8,
+  "carbs": 62.6,
+  "equivalents": [
+    {
+      "amount": 0.5,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 1.2,
+  "fiber": 16.3,
+  "foodId": "food_7a656464",
+  "name": "Green Moong Whole (Whole Green Gram)",
+  "protein": 23.9,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 15,
+  "sugars": 0
+}

@@ -1,0 +1,19 @@
+{
+  "calories": 427.8,
+  "carbs": 4.1,
+  "equivalents": [
+    {
+      "amount": 1,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 28.6,
+  "fiber": 0,
+  "foodId": "food_8783afd0",
+  "name": "Parmesan Cheese",
+  "protein": 38.5,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 1529,
+  "sugars": 0
+}

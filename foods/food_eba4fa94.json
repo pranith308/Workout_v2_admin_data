@@ -1,0 +1,19 @@
+{
+  "calories": 62.5,
+  "carbs": 4.7,
+  "equivalents": [
+    {
+      "amount": 0.4,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 3.3,
+  "fiber": 0,
+  "foodId": "food_eba4fa94",
+  "name": "Yogurt / Curd (Dahi)",
+  "protein": 3.5,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 46,
+  "sugars": 0
+}

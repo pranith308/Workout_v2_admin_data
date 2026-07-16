@@ -1,0 +1,19 @@
+{
+  "calories": 351.9,
+  "carbs": 72.8,
+  "equivalents": [
+    {
+      "amount": 0.6,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 1.1,
+  "fiber": 3.9,
+  "foodId": "food_75dc2b7d",
+  "name": "Semolina (Rava / Suji)",
+  "protein": 12.7,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 1,
+  "sugars": 0
+}

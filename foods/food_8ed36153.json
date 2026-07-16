@@ -1,0 +1,19 @@
+{
+  "calories": 733.9,
+  "carbs": 0.1,
+  "equivalents": [
+    {
+      "amount": 7,
+      "unit": "TBSP"
+    }
+  ],
+  "fats": 81.1,
+  "fiber": 0,
+  "foodId": "food_8ed36153",
+  "name": "Butter (Unsalted)",
+  "protein": 0.9,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 11,
+  "sugars": 0
+}

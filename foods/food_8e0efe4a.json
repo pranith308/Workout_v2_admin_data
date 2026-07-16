@@ -1,0 +1,19 @@
+{
+  "calories": 47.9,
+  "carbs": 10.8,
+  "equivalents": [
+    {
+      "amount": 0.7,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 0.3,
+  "fiber": 1.7,
+  "foodId": "food_8e0efe4a",
+  "name": "Papaya",
+  "protein": 0.5,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 8,
+  "sugars": 0
+}

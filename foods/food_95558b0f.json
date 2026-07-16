@@ -1,0 +1,19 @@
+{
+  "calories": 60.7,
+  "carbs": 4,
+  "equivalents": [
+    {
+      "amount": 0.4,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 3.5,
+  "fiber": 0,
+  "foodId": "food_95558b0f",
+  "name": "Kefir - per 100ml",
+  "protein": 3.3,
+  "servingSize": 100,
+  "servingUnit": "MILLILITER",
+  "sodium": 40,
+  "sugars": 0
+}

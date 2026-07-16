@@ -1,0 +1,19 @@
+{
+  "calories": 375.5,
+  "carbs": 15.2,
+  "equivalents": [
+    {
+      "amount": 1.3,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 33.5,
+  "fiber": 9,
+  "foodId": "food_85d7ea8f",
+  "name": "Coconut (Fresh Meat)",
+  "protein": 3.3,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 20,
+  "sugars": 0
+}

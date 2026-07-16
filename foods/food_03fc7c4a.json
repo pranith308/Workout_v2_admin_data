@@ -1,0 +1,19 @@
+{
+  "calories": 596,
+  "carbs": 10,
+  "equivalents": [
+    {
+      "amount": 0.8,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 48,
+  "fiber": 6,
+  "foodId": "food_03fc7c4a",
+  "name": "Melon Seeds (Magaj)",
+  "protein": 31,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 5,
+  "sugars": 0
+}

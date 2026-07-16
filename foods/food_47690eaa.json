@@ -1,0 +1,19 @@
+{
+  "calories": 352,
+  "carbs": 61.5,
+  "equivalents": [
+    {
+      "amount": 0.5,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 1.6,
+  "fiber": 4,
+  "foodId": "food_47690eaa",
+  "name": "Matki (Moth Beans)",
+  "protein": 22.9,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 30,
+  "sugars": 0
+}

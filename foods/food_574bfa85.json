@@ -1,0 +1,19 @@
+{
+  "calories": 610.4,
+  "carbs": 16.1,
+  "equivalents": [
+    {
+      "amount": 0.7,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 49.2,
+  "fiber": 8.5,
+  "foodId": "food_574bfa85",
+  "name": "Peanuts (Moongfali)",
+  "protein": 25.8,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 18,
+  "sugars": 0
+}

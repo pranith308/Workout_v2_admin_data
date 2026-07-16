@@ -1,0 +1,19 @@
+{
+  "calories": 41.2,
+  "carbs": 6.6,
+  "equivalents": [
+    {
+      "amount": 1.1,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 0.4,
+  "fiber": 2.6,
+  "foodId": "food_199fa72d",
+  "name": "Broccoli",
+  "protein": 2.8,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 33,
+  "sugars": 0
+}

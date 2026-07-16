@@ -1,0 +1,19 @@
+{
+  "calories": 702.4,
+  "carbs": 13.7,
+  "equivalents": [
+    {
+      "amount": 1,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 65.2,
+  "fiber": 6.7,
+  "foodId": "food_221a6f40",
+  "name": "Walnuts (Akhrot)",
+  "protein": 15.2,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 2,
+  "sugars": 0
+}

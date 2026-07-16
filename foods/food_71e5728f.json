@@ -1,0 +1,19 @@
+{
+  "calories": 23.8,
+  "carbs": 4.6,
+  "equivalents": [
+    {
+      "amount": 1.1,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 0.2,
+  "fiber": 1.7,
+  "foodId": "food_71e5728f",
+  "name": "Bell Pepper (Capsicum)",
+  "protein": 0.9,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 3,
+  "sugars": 0
+}

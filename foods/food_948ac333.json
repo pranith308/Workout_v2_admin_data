@@ -1,0 +1,19 @@
+{
+  "calories": 352.7,
+  "carbs": 62.8,
+  "equivalents": [
+    {
+      "amount": 0.5,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 1.5,
+  "fiber": 15,
+  "foodId": "food_948ac333",
+  "name": "Toor Dal (Split Pigeon Peas)",
+  "protein": 22,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 17,
+  "sugars": 0
+}

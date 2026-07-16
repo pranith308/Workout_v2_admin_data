@@ -1,0 +1,19 @@
+{
+  "calories": 58,
+  "carbs": 3.6,
+  "equivalents": [
+    {
+      "amount": 0.4,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 0.4,
+  "fiber": 0,
+  "foodId": "food_941cc8ed",
+  "name": "Greek Yogurt (Plain)",
+  "protein": 10,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 36,
+  "sugars": 0
+}

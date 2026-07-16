@@ -1,0 +1,19 @@
+{
+  "calories": 54.7,
+  "carbs": 12,
+  "equivalents": [
+    {
+      "amount": 0.7,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 0.3,
+  "fiber": 1.6,
+  "foodId": "food_783de1b9",
+  "name": "Cherry",
+  "protein": 1,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 0,
+  "sugars": 0
+}

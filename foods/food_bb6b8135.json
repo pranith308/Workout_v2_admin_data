@@ -1,0 +1,19 @@
+{
+  "calories": 345.5,
+  "carbs": 58,
+  "equivalents": [
+    {
+      "amount": 0.5,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 1.5,
+  "fiber": 15,
+  "foodId": "food_bb6b8135",
+  "name": "Val (Field Beans)",
+  "protein": 25,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 12,
+  "sugars": 0
+}

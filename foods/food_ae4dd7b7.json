@@ -1,0 +1,19 @@
+{
+  "calories": 355.4,
+  "carbs": 76.3,
+  "equivalents": [
+    {
+      "amount": 0.8,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 1,
+  "fiber": 2.7,
+  "foodId": "food_ae4dd7b7",
+  "name": "All-Purpose Flour (Maida)",
+  "protein": 10.3,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 2,
+  "sugars": 0
+}

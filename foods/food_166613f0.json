@@ -1,0 +1,19 @@
+{
+  "calories": 327.3,
+  "carbs": 64,
+  "equivalents": [
+    {
+      "amount": 10,
+      "unit": "TBSP"
+    }
+  ],
+  "fats": 3.3,
+  "fiber": 25.3,
+  "foodId": "food_166613f0",
+  "name": "Black Pepper (Kali Mirch)",
+  "protein": 10.4,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 20,
+  "sugars": 0
+}

@@ -1,0 +1,19 @@
+{
+  "calories": 443,
+  "carbs": 59,
+  "equivalents": [
+    {
+      "amount": 1.1,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 15,
+  "fiber": 38,
+  "foodId": "food_a4e6eb5b",
+  "name": "Coconut Flour",
+  "protein": 18,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 120,
+  "sugars": 0
+}

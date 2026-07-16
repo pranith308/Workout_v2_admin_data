@@ -1,0 +1,19 @@
+{
+  "calories": 769,
+  "carbs": 13.8,
+  "equivalents": [
+    {
+      "amount": 0.8,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 75.8,
+  "fiber": 8.6,
+  "foodId": "food_e310b1b0",
+  "name": "Macadamia Nuts",
+  "protein": 7.9,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 5,
+  "sugars": 0
+}

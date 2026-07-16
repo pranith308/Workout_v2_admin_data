@@ -1,0 +1,19 @@
+{
+  "calories": 350.2,
+  "carbs": 2.1,
+  "equivalents": [
+    {
+      "amount": 0.9,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 26.6,
+  "fiber": 0,
+  "foodId": "food_3977bb97",
+  "name": "Provolone Cheese",
+  "protein": 25.6,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 876,
+  "sugars": 0
+}

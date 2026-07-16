@@ -1,0 +1,19 @@
+{
+  "calories": 346.8,
+  "carbs": 62.6,
+  "equivalents": [
+    {
+      "amount": 0.5,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 1.2,
+  "fiber": 15.5,
+  "foodId": "food_ab478133",
+  "name": "Pinto Beans",
+  "protein": 21.4,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 12,
+  "sugars": 0
+}

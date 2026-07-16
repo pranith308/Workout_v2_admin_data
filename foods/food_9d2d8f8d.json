@@ -1,0 +1,19 @@
+{
+  "calories": 558.8,
+  "carbs": 28.1,
+  "equivalents": [
+    {
+      "amount": 11,
+      "unit": "TBSP"
+    }
+  ],
+  "fats": 41.6,
+  "fiber": 19.5,
+  "foodId": "food_9d2d8f8d",
+  "name": "Poppy Seeds (Khus Khus)",
+  "protein": 18,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 26,
+  "sugars": 0
+}

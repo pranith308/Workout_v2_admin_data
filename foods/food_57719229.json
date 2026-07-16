@@ -1,0 +1,19 @@
+{
+  "calories": 626.7,
+  "carbs": 20,
+  "equivalents": [
+    {
+      "amount": 0.8,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 51.5,
+  "fiber": 8.6,
+  "foodId": "food_57719229",
+  "name": "Sunflower Seeds",
+  "protein": 20.8,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 9,
+  "sugars": 0
+}

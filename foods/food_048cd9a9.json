@@ -1,0 +1,19 @@
+{
+  "calories": 42.5,
+  "carbs": 9.3,
+  "equivalents": [
+    {
+      "amount": 0.9,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 0.1,
+  "fiber": 1.7,
+  "foodId": "food_048cd9a9",
+  "name": "Onion",
+  "protein": 1.1,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 4,
+  "sugars": 0
+}

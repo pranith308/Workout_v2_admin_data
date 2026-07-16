@@ -1,0 +1,19 @@
+{
+  "calories": 542.6,
+  "carbs": 28.1,
+  "equivalents": [
+    {
+      "amount": 9,
+      "unit": "TBSP"
+    }
+  ],
+  "fats": 36.2,
+  "fiber": 12.2,
+  "foodId": "food_4e9ffd5e",
+  "name": "Mustard Seeds (Sarson / Rai)",
+  "protein": 26.1,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 13,
+  "sugars": 0
+}

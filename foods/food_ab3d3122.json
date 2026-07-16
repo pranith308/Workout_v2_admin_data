@@ -1,0 +1,19 @@
+{
+  "calories": 367.3,
+  "carbs": 91.3,
+  "equivalents": [
+    {
+      "amount": 0.8,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 0.1,
+  "fiber": 0.9,
+  "foodId": "food_ab3d3122",
+  "name": "Corn Flour / Cornstarch",
+  "protein": 0.3,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 9,
+  "sugars": 0
+}

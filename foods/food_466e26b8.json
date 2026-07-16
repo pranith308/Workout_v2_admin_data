@@ -1,0 +1,19 @@
+{
+  "calories": 40.5,
+  "carbs": 4.8,
+  "equivalents": [
+    {
+      "amount": 0.4,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 0.9,
+  "fiber": 0,
+  "foodId": "food_466e26b8",
+  "name": "Buttermilk (Chaas) - per 100ml",
+  "protein": 3.3,
+  "servingSize": 100,
+  "servingUnit": "MILLILITER",
+  "sodium": 105,
+  "sugars": 0
+}

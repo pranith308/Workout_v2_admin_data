@@ -1,0 +1,19 @@
+{
+  "calories": 374,
+  "carbs": 60.7,
+  "equivalents": [
+    {
+      "amount": 0.5,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 6,
+  "fiber": 17.4,
+  "foodId": "food_076a9bbf",
+  "name": "Kabuli Chana (Chickpeas / Garbanzo Beans)",
+  "protein": 19.3,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 24,
+  "sugars": 0
+}

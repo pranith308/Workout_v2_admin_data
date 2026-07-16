@@ -1,0 +1,19 @@
+{
+  "calories": 620.7,
+  "carbs": 21.7,
+  "equivalents": [
+    {
+      "amount": 0.7,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 49.9,
+  "fiber": 12.5,
+  "foodId": "food_b60eecb0",
+  "name": "Almonds (Badam)",
+  "protein": 21.2,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 1,
+  "sugars": 0
+}

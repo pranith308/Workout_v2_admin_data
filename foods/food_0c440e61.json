@@ -1,0 +1,19 @@
+{
+  "calories": 29.3,
+  "carbs": 5.8,
+  "equivalents": [
+    {
+      "amount": 1.1,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 0.1,
+  "fiber": 2.5,
+  "foodId": "food_0c440e61",
+  "name": "Cabbage (Patta Gobi)",
+  "protein": 1.3,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 18,
+  "sugars": 0
+}

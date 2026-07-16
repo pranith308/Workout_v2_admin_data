@@ -1,0 +1,19 @@
+{
+  "calories": 78.5,
+  "carbs": 17.4,
+  "equivalents": [
+    {
+      "amount": 0.7,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 0.1,
+  "fiber": 2.2,
+  "foodId": "food_46afce41",
+  "name": "Potato (With Skin)",
+  "protein": 2,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 6,
+  "sugars": 0
+}

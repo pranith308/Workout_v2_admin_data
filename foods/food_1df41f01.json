@@ -1,0 +1,19 @@
+{
+  "calories": 18.1,
+  "carbs": 3.6,
+  "equivalents": [
+    {
+      "amount": 0.8,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 0.1,
+  "fiber": 0.5,
+  "foodId": "food_1df41f01",
+  "name": "Cucumber (With Peel)",
+  "protein": 0.7,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 2,
+  "sugars": 0
+}

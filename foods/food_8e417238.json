@@ -1,0 +1,19 @@
+{
+  "calories": 740.4,
+  "carbs": 13.9,
+  "equivalents": [
+    {
+      "amount": 1,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 72,
+  "fiber": 9.6,
+  "foodId": "food_8e417238",
+  "name": "Pecans",
+  "protein": 9.2,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 0,
+  "sugars": 0
+}

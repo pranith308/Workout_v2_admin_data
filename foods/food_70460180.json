@@ -1,0 +1,19 @@
+{
+  "calories": 135.6,
+  "carbs": 10,
+  "equivalents": [
+    {
+      "amount": 0.4,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 7.6,
+  "fiber": 0,
+  "foodId": "food_70460180",
+  "name": "Evaporated Milk - per 100ml",
+  "protein": 6.8,
+  "servingSize": 100,
+  "servingUnit": "MILLILITER",
+  "sodium": 106,
+  "sugars": 0
+}

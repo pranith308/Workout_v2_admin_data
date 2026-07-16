@@ -1,0 +1,19 @@
+{
+  "calories": 126,
+  "carbs": 3,
+  "equivalents": [
+    {
+      "amount": 0.4,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 6,
+  "fiber": 0,
+  "foodId": "food_9dbdc50a",
+  "name": "Colostrum (Bovine) - per 100ml",
+  "protein": 15,
+  "servingSize": 100,
+  "servingUnit": "MILLILITER",
+  "sodium": 70,
+  "sugars": 0
+}

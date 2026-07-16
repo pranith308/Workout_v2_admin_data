@@ -1,0 +1,19 @@
+{
+  "calories": 895.5,
+  "carbs": 0,
+  "equivalents": [
+    {
+      "amount": 7,
+      "unit": "TBSP"
+    }
+  ],
+  "fats": 99.5,
+  "fiber": 0,
+  "foodId": "food_980db931",
+  "name": "Ghee (Clarified Butter)",
+  "protein": 0,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 2,
+  "sugars": 0
+}

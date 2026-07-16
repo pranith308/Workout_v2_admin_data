@@ -1,0 +1,19 @@
+{
+  "calories": 371,
+  "carbs": 6,
+  "equivalents": [
+    {
+      "amount": 1,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 3,
+  "fiber": 0,
+  "foodId": "food_0549c451",
+  "name": "Whey Protein Powder",
+  "protein": 80,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 160,
+  "sugars": 0
+}

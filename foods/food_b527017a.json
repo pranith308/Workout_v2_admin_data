@@ -1,0 +1,19 @@
+{
+  "calories": 344.1,
+  "carbs": 2.7,
+  "equivalents": [
+    {
+      "amount": 0.4,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 36.1,
+  "fiber": 0,
+  "foodId": "food_b527017a",
+  "name": "Heavy Cream (Malai)",
+  "protein": 2.1,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 35,
+  "sugars": 0
+}

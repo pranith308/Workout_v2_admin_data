@@ -1,0 +1,19 @@
+{
+  "calories": 365.5,
+  "carbs": 78,
+  "equivalents": [
+    {
+      "amount": 0.8,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 1.5,
+  "fiber": 14.6,
+  "foodId": "food_b0d76ce4",
+  "name": "Rye Flour",
+  "protein": 10,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 2,
+  "sugars": 0
+}

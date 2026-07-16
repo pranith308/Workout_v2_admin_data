@@ -1,0 +1,19 @@
+{
+  "calories": 16.6,
+  "carbs": 3,
+  "equivalents": [
+    {
+      "amount": 1,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 0.2,
+  "fiber": 1.6,
+  "foodId": "food_78169902",
+  "name": "Celery",
+  "protein": 0.7,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 80,
+  "sugars": 0
+}

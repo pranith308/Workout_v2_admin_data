@@ -1,0 +1,19 @@
+{
+  "calories": 174.3,
+  "carbs": 8.5,
+  "equivalents": [
+    {
+      "amount": 0.7,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 14.7,
+  "fiber": 6.7,
+  "foodId": "food_3e1b8f23",
+  "name": "Avocado",
+  "protein": 2,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 7,
+  "sugars": 0
+}

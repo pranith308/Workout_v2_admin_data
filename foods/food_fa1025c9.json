@@ -1,0 +1,19 @@
+{
+  "calories": 35.7,
+  "carbs": 8.1,
+  "equivalents": [
+    {
+      "amount": 0.5,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 0.1,
+  "fiber": 1.1,
+  "foodId": "food_fa1025c9",
+  "name": "Grapefruit",
+  "protein": 0.6,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 0,
+  "sugars": 0
+}

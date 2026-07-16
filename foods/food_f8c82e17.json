@@ -1,0 +1,19 @@
+{
+  "calories": 360.7,
+  "carbs": 63.1,
+  "equivalents": [
+    {
+      "amount": 0.5,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 1.1,
+  "fiber": 10.8,
+  "foodId": "food_f8c82e17",
+  "name": "Masoor Dal (Split Red Lentils)",
+  "protein": 24.6,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 6,
+  "sugars": 0
+}

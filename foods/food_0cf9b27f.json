@@ -1,0 +1,19 @@
+{
+  "calories": 510.7,
+  "carbs": 42.1,
+  "equivalents": [
+    {
+      "amount": 10,
+      "unit": "TBSP"
+    }
+  ],
+  "fats": 30.7,
+  "fiber": 34.4,
+  "foodId": "food_0cf9b27f",
+  "name": "Chia Seeds",
+  "protein": 16.5,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 16,
+  "sugars": 0
+}

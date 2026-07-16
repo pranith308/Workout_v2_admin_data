@@ -1,0 +1,19 @@
+{
+  "calories": 445.9,
+  "carbs": 30.2,
+  "equivalents": [
+    {
+      "amount": 0.6,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 19.9,
+  "fiber": 9.3,
+  "foodId": "food_756784f8",
+  "name": "Soybeans (Raw Whole)",
+  "protein": 36.5,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 2,
+  "sugars": 0
+}

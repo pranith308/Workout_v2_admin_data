@@ -1,0 +1,19 @@
+{
+  "calories": 353.1,
+  "carbs": 2.3,
+  "equivalents": [
+    {
+      "amount": 0.9,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 28.7,
+  "fiber": 0,
+  "foodId": "food_4614575d",
+  "name": "Blue Cheese",
+  "protein": 21.4,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 1395,
+  "sugars": 0
+}

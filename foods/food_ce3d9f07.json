@@ -1,0 +1,19 @@
+{
+  "calories": 83.2,
+  "carbs": 14.5,
+  "equivalents": [
+    {
+      "amount": 0.7,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 0.4,
+  "fiber": 5.1,
+  "foodId": "food_ce3d9f07",
+  "name": "Green Peas (Fresh)",
+  "protein": 5.4,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 5,
+  "sugars": 0
+}

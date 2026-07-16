@@ -1,0 +1,19 @@
+{
+  "calories": 37.8,
+  "carbs": 8.2,
+  "equivalents": [
+    {
+      "amount": 0.7,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 0.2,
+  "fiber": 0.9,
+  "foodId": "food_d6d60d76",
+  "name": "Musk Melon (Kharbuja)",
+  "protein": 0.8,
+  "servingSize": 100,
+  "servingUnit": "GRAM",
+  "sodium": 16,
+  "sugars": 0
+}
