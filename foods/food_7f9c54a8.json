@@ -1,5 +1,5 @@
 {
-  "calories": 77,
+  "calories": 77.0,
   "carbs": 18.1,
   "equivalents": [
     {
@@ -12,8 +12,8 @@
   "foodId": "food_7f9c54a8",
   "name": "Grapes",
   "protein": 0.7,
-  "servingSize": 100,
+  "servingSize": 100.0,
   "servingUnit": "GRAM",
-  "sodium": 2,
-  "sugars": 0
+  "sodium": 2.0,
+  "sugars": 0.0
 }

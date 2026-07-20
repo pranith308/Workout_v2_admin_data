@@ -12,8 +12,8 @@
   "foodId": "food_dd8e5e94",
   "name": "Urad Dal (Split Black Gram)",
   "protein": 25.2,
-  "servingSize": 100,
+  "servingSize": 100.0,
   "servingUnit": "GRAM",
-  "sodium": 38,
-  "sugars": 0
+  "sodium": 38.0,
+  "sugars": 0.0
 }

@@ -12,8 +12,8 @@
   "foodId": "food_fc4c8b6f",
   "name": "Wild Rice",
   "protein": 14.7,
-  "servingSize": 100,
+  "servingSize": 100.0,
   "servingUnit": "GRAM",
-  "sodium": 7,
-  "sugars": 0
+  "sodium": 7.0,
+  "sugars": 0.0
 }

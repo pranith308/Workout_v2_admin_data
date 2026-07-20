@@ -7,13 +7,13 @@
       "unit": "CUP"
     }
   ],
-  "fats": 20,
-  "fiber": 0,
+  "fats": 20.0,
+  "fiber": 0.0,
   "foodId": "food_1fc6fb28",
   "name": "Mozzarella Cheese",
   "protein": 22.2,
-  "servingSize": 100,
+  "servingSize": 100.0,
   "servingUnit": "GRAM",
-  "sodium": 500,
-  "sugars": 0
+  "sodium": 500.0,
+  "sugars": 0.0
 }

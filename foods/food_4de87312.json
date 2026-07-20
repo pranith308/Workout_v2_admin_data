@@ -8,12 +8,12 @@
     }
   ],
   "fats": 3.4,
-  "fiber": 10,
+  "fiber": 10.0,
   "foodId": "food_4de87312",
   "name": "Buckwheat (Kuttu)",
   "protein": 13.2,
-  "servingSize": 100,
+  "servingSize": 100.0,
   "servingUnit": "GRAM",
-  "sodium": 11,
-  "sugars": 0
+  "sodium": 11.0,
+  "sugars": 0.0
 }

@@ -1,6 +1,6 @@
 {
   "calories": 341.1,
-  "carbs": 67,
+  "carbs": 67.0,
   "equivalents": [
     {
       "amount": 0.7,
@@ -12,8 +12,8 @@
   "foodId": "food_6d59e15e",
   "name": "Little Millet (Kutki)",
   "protein": 7.7,
-  "servingSize": 100,
+  "servingSize": 100.0,
   "servingUnit": "GRAM",
-  "sodium": 5,
-  "sugars": 0
+  "sodium": 5.0,
+  "sugars": 0.0
 }

@@ -12,8 +12,8 @@
   "foodId": "food_8e812db0",
   "name": "Radish (Mooli)",
   "protein": 0.7,
-  "servingSize": 100,
+  "servingSize": 100.0,
   "servingUnit": "GRAM",
-  "sodium": 39,
-  "sugars": 0
+  "sodium": 39.0,
+  "sugars": 0.0
 }

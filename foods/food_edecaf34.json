@@ -8,12 +8,12 @@
     }
   ],
   "fats": 0.6,
-  "fiber": 5,
+  "fiber": 5.0,
   "foodId": "food_edecaf34",
   "name": "Couscous",
   "protein": 12.8,
-  "servingSize": 100,
+  "servingSize": 100.0,
   "servingUnit": "GRAM",
-  "sodium": 10,
-  "sugars": 0
+  "sodium": 10.0,
+  "sugars": 0.0
 }

@@ -1,19 +1,19 @@
 {
   "calories": 30.3,
-  "carbs": 5,
+  "carbs": 5.0,
   "equivalents": [
     {
-      "amount": 1,
+      "amount": 1.0,
       "unit": "CUP"
     }
   ],
   "fats": 0.3,
-  "fiber": 2,
+  "fiber": 2.0,
   "foodId": "food_b19d2a03",
   "name": "Cauliflower (Gobi)",
   "protein": 1.9,
-  "servingSize": 100,
+  "servingSize": 100.0,
   "servingUnit": "GRAM",
-  "sodium": 30,
-  "sugars": 0
+  "sodium": 30.0,
+  "sugars": 0.0
 }

@@ -8,12 +8,12 @@
     }
   ],
   "fats": 5.6,
-  "fiber": 18,
+  "fiber": 18.0,
   "foodId": "food_47f61325",
   "name": "Chana Dal (Split Bengal Gram)",
   "protein": 20.8,
-  "servingSize": 100,
+  "servingSize": 100.0,
   "servingUnit": "GRAM",
-  "sodium": 10,
-  "sugars": 0
+  "sodium": 10.0,
+  "sugars": 0.0
 }

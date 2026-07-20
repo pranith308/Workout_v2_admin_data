@@ -8,12 +8,12 @@
     }
   ],
   "fats": 36.1,
-  "fiber": 0,
+  "fiber": 0.0,
   "foodId": "food_b527017a",
   "name": "Heavy Cream (Malai)",
   "protein": 2.1,
-  "servingSize": 100,
+  "servingSize": 100.0,
   "servingUnit": "GRAM",
-  "sodium": 35,
-  "sugars": 0
+  "sodium": 35.0,
+  "sugars": 0.0
 }

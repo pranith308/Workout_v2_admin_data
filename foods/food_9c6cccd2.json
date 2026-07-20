@@ -1,6 +1,6 @@
 {
   "calories": 345.7,
-  "carbs": 60,
+  "carbs": 60.0,
   "equivalents": [
     {
       "amount": 0.5,
@@ -12,8 +12,8 @@
   "foodId": "food_9c6cccd2",
   "name": "Cowpeas",
   "protein": 23.5,
-  "servingSize": 100,
+  "servingSize": 100.0,
   "servingUnit": "GRAM",
-  "sodium": 16,
-  "sugars": 0
+  "sodium": 16.0,
+  "sugars": 0.0
 }

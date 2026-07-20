@@ -8,12 +8,12 @@
     }
   ],
   "fats": 49.1,
-  "fiber": 6,
+  "fiber": 6.0,
   "foodId": "food_c5449e0e",
   "name": "Pumpkin Seeds (Kaddu ke Beej)",
   "protein": 30.2,
-  "servingSize": 100,
+  "servingSize": 100.0,
   "servingUnit": "GRAM",
-  "sodium": 7,
-  "sugars": 0
+  "sodium": 7.0,
+  "sugars": 0.0
 }

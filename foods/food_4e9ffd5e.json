@@ -3,7 +3,7 @@
   "carbs": 28.1,
   "equivalents": [
     {
-      "amount": 9,
+      "amount": 9.0,
       "unit": "TBSP"
     }
   ],
@@ -12,8 +12,8 @@
   "foodId": "food_4e9ffd5e",
   "name": "Mustard Seeds (Sarson / Rai)",
   "protein": 26.1,
-  "servingSize": 100,
+  "servingSize": 100.0,
   "servingUnit": "GRAM",
-  "sodium": 13,
-  "sugars": 0
+  "sodium": 13.0,
+  "sugars": 0.0
 }

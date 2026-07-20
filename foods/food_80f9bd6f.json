@@ -8,12 +8,12 @@
     }
   ],
   "fats": 0.3,
-  "fiber": 2,
+  "fiber": 2.0,
   "foodId": "food_80f9bd6f",
   "name": "Strawberry",
   "protein": 0.7,
-  "servingSize": 100,
+  "servingSize": 100.0,
   "servingUnit": "GRAM",
-  "sodium": 1,
-  "sugars": 0
+  "sodium": 1.0,
+  "sugars": 0.0
 }

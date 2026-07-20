@@ -12,8 +12,8 @@
   "foodId": "food_6ea9f62c",
   "name": "Coconut (Dried / Desiccated)",
   "protein": 6.9,
-  "servingSize": 100,
+  "servingSize": 100.0,
   "servingUnit": "GRAM",
-  "sodium": 37,
-  "sugars": 0
+  "sodium": 37.0,
+  "sugars": 0.0
 }

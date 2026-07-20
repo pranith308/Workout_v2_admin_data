@@ -3,7 +3,7 @@
   "carbs": 23.5,
   "equivalents": [
     {
-      "amount": 7,
+      "amount": 7.0,
       "unit": "TBSP"
     }
   ],
@@ -12,8 +12,8 @@
   "foodId": "food_e0c7f6d4",
   "name": "Sesame Seeds (Til)",
   "protein": 17.7,
-  "servingSize": 100,
+  "servingSize": 100.0,
   "servingUnit": "GRAM",
-  "sodium": 11,
-  "sugars": 0
+  "sodium": 11.0,
+  "sugars": 0.0
 }

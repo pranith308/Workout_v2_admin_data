@@ -12,8 +12,8 @@
   "foodId": "food_7a656464",
   "name": "Green Moong Whole (Whole Green Gram)",
   "protein": 23.9,
-  "servingSize": 100,
+  "servingSize": 100.0,
   "servingUnit": "GRAM",
-  "sodium": 15,
-  "sugars": 0
+  "sodium": 15.0,
+  "sugars": 0.0
 }

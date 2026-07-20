@@ -3,17 +3,17 @@
   "carbs": 68.5,
   "equivalents": [
     {
-      "amount": 10,
+      "amount": 10.0,
       "unit": "TBSP"
     }
   ],
   "fats": 6.7,
-  "fiber": 28,
+  "fiber": 28.0,
   "foodId": "food_1d9d7576",
   "name": "Cardamom (Elaichi)",
   "protein": 10.8,
-  "servingSize": 100,
+  "servingSize": 100.0,
   "servingUnit": "GRAM",
-  "sodium": 18,
-  "sugars": 0
+  "sodium": 18.0,
+  "sugars": 0.0
 }

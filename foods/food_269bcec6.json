@@ -8,12 +8,12 @@
     }
   ],
   "fats": 33.1,
-  "fiber": 0,
+  "fiber": 0.0,
   "foodId": "food_269bcec6",
   "name": "Cheddar Cheese",
   "protein": 24.9,
-  "servingSize": 100,
+  "servingSize": 100.0,
   "servingUnit": "GRAM",
-  "sodium": 621,
-  "sugars": 0
+  "sodium": 621.0,
+  "sugars": 0.0
 }

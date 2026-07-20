@@ -1,5 +1,5 @@
 {
-  "calories": 769,
+  "calories": 769.0,
   "carbs": 13.8,
   "equivalents": [
     {
@@ -12,8 +12,8 @@
   "foodId": "food_e310b1b0",
   "name": "Macadamia Nuts",
   "protein": 7.9,
-  "servingSize": 100,
+  "servingSize": 100.0,
   "servingUnit": "GRAM",
-  "sodium": 5,
-  "sugars": 0
+  "sodium": 5.0,
+  "sugars": 0.0
 }

@@ -8,12 +8,12 @@
     }
   ],
   "fats": 0.2,
-  "fiber": 3,
+  "fiber": 3.0,
   "foodId": "food_311a59c7",
   "name": "Eggplant (Baingan)",
-  "protein": 1,
-  "servingSize": 100,
+  "protein": 1.0,
+  "servingSize": 100.0,
   "servingUnit": "GRAM",
-  "sodium": 2,
-  "sugars": 0
+  "sodium": 2.0,
+  "sugars": 0.0
 }

@@ -11,9 +11,9 @@
   "fiber": 6.7,
   "foodId": "food_3e1b8f23",
   "name": "Avocado",
-  "protein": 2,
-  "servingSize": 100,
+  "protein": 2.0,
+  "servingSize": 100.0,
   "servingUnit": "GRAM",
-  "sodium": 7,
-  "sugars": 0
+  "sodium": 7.0,
+  "sugars": 0.0
 }

@@ -8,12 +8,12 @@
     }
   ],
   "fats": 26.6,
-  "fiber": 0,
+  "fiber": 0.0,
   "foodId": "food_3977bb97",
   "name": "Provolone Cheese",
   "protein": 25.6,
-  "servingSize": 100,
+  "servingSize": 100.0,
   "servingUnit": "GRAM",
-  "sodium": 876,
-  "sugars": 0
+  "sodium": 876.0,
+  "sugars": 0.0
 }

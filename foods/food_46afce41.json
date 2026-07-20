@@ -11,9 +11,9 @@
   "fiber": 2.2,
   "foodId": "food_46afce41",
   "name": "Potato (With Skin)",
-  "protein": 2,
-  "servingSize": 100,
+  "protein": 2.0,
+  "servingSize": 100.0,
   "servingUnit": "GRAM",
-  "sodium": 6,
-  "sugars": 0
+  "sodium": 6.0,
+  "sugars": 0.0
 }

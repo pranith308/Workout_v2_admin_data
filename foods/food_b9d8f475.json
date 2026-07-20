@@ -8,12 +8,12 @@
     }
   ],
   "fats": 1.5,
-  "fiber": 25,
+  "fiber": 25.0,
   "foodId": "food_b9d8f475",
   "name": "Fava Beans (Broad Beans)",
   "protein": 26.1,
-  "servingSize": 100,
+  "servingSize": 100.0,
   "servingUnit": "GRAM",
-  "sodium": 13,
-  "sugars": 0
+  "sodium": 13.0,
+  "sugars": 0.0
 }

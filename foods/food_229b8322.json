@@ -12,8 +12,8 @@
   "foodId": "food_229b8322",
   "name": "Black Beans",
   "protein": 21.6,
-  "servingSize": 100,
+  "servingSize": 100.0,
   "servingUnit": "GRAM",
-  "sodium": 5,
-  "sugars": 0
+  "sodium": 5.0,
+  "sugars": 0.0
 }

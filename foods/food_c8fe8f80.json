@@ -8,12 +8,12 @@
     }
   ],
   "fats": 0.3,
-  "fiber": 1,
+  "fiber": 1.0,
   "foodId": "food_c8fe8f80",
   "name": "Mushroom (White Button)",
   "protein": 3.1,
-  "servingSize": 100,
+  "servingSize": 100.0,
   "servingUnit": "GRAM",
-  "sodium": 5,
-  "sugars": 0
+  "sodium": 5.0,
+  "sugars": 0.0
 }

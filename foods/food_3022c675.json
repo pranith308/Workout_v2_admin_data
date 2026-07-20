@@ -7,13 +7,13 @@
       "unit": "CUP"
     }
   ],
-  "fats": 34,
-  "fiber": 0,
+  "fats": 34.0,
+  "fiber": 0.0,
   "foodId": "food_3022c675",
   "name": "Cream Cheese",
-  "protein": 6,
-  "servingSize": 100,
+  "protein": 6.0,
+  "servingSize": 100.0,
   "servingUnit": "GRAM",
-  "sodium": 321,
-  "sugars": 0
+  "sodium": 321.0,
+  "sugars": 0.0
 }

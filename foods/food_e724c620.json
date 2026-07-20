@@ -1,6 +1,6 @@
 {
   "calories": 341.7,
-  "carbs": 60,
+  "carbs": 60.0,
   "equivalents": [
     {
       "amount": 0.5,
@@ -12,8 +12,8 @@
   "foodId": "food_e724c620",
   "name": "Cannellini Beans",
   "protein": 23.4,
-  "servingSize": 100,
+  "servingSize": 100.0,
   "servingUnit": "GRAM",
-  "sodium": 10,
-  "sugars": 0
+  "sodium": 10.0,
+  "sugars": 0.0
 }

@@ -12,8 +12,8 @@
   "foodId": "food_603042b8",
   "name": "Bottle Gourd (Lauki)",
   "protein": 0.6,
-  "servingSize": 100,
+  "servingSize": 100.0,
   "servingUnit": "GRAM",
-  "sodium": 2,
-  "sugars": 0
+  "sodium": 2.0,
+  "sugars": 0.0
 }

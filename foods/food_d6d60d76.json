@@ -12,8 +12,8 @@
   "foodId": "food_d6d60d76",
   "name": "Musk Melon (Kharbuja)",
   "protein": 0.8,
-  "servingSize": 100,
+  "servingSize": 100.0,
   "servingUnit": "GRAM",
-  "sodium": 16,
-  "sugars": 0
+  "sodium": 16.0,
+  "sugars": 0.0
 }

@@ -8,12 +8,12 @@
     }
   ],
   "fats": 8.7,
-  "fiber": 0,
+  "fiber": 0.0,
   "foodId": "food_4ba1790d",
   "name": "Condensed Milk (Sweetened)",
   "protein": 7.9,
-  "servingSize": 100,
+  "servingSize": 100.0,
   "servingUnit": "MILLILITER",
-  "sodium": 127,
-  "sugars": 0
+  "sodium": 127.0,
+  "sugars": 0.0
 }

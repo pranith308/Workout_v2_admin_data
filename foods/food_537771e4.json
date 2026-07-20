@@ -8,12 +8,12 @@
     }
   ],
   "fats": 6.9,
-  "fiber": 0,
+  "fiber": 0.0,
   "foodId": "food_537771e4",
   "name": "Buffalo Milk - per 100ml",
   "protein": 3.8,
-  "servingSize": 100,
+  "servingSize": 100.0,
   "servingUnit": "MILLILITER",
-  "sodium": 52,
-  "sugars": 0
+  "sodium": 52.0,
+  "sugars": 0.0
 }

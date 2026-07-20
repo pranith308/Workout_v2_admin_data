@@ -1,6 +1,6 @@
 {
   "calories": 320.5,
-  "carbs": 57,
+  "carbs": 57.0,
   "equivalents": [
     {
       "amount": 0.5,
@@ -8,12 +8,12 @@
     }
   ],
   "fats": 0.5,
-  "fiber": 5,
+  "fiber": 5.0,
   "foodId": "food_e792985a",
   "name": "Horse Gram (Kollu)",
-  "protein": 22,
-  "servingSize": 100,
+  "protein": 22.0,
+  "servingSize": 100.0,
   "servingUnit": "GRAM",
-  "sodium": 11,
-  "sugars": 0
+  "sodium": 11.0,
+  "sugars": 0.0
 }

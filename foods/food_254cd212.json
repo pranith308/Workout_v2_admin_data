@@ -12,8 +12,8 @@
   "foodId": "food_254cd212",
   "name": "Moong Dal (Split Green Gram)",
   "protein": 24.5,
-  "servingSize": 100,
+  "servingSize": 100.0,
   "servingUnit": "GRAM",
-  "sodium": 15,
-  "sugars": 0
+  "sodium": 15.0,
+  "sugars": 0.0
 }

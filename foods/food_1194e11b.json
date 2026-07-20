@@ -8,12 +8,12 @@
     }
   ],
   "fats": 21.1,
-  "fiber": 0,
+  "fiber": 0.0,
   "foodId": "food_1194e11b",
   "name": "Goat Cheese (Soft)",
   "protein": 18.5,
-  "servingSize": 100,
+  "servingSize": 100.0,
   "servingUnit": "GRAM",
-  "sodium": 363,
-  "sugars": 0
+  "sodium": 363.0,
+  "sugars": 0.0
 }

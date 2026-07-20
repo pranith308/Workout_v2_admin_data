@@ -1,19 +1,19 @@
 {
-  "calories": 425,
-  "carbs": 43,
+  "calories": 425.0,
+  "carbs": 43.0,
   "equivalents": [
     {
-      "amount": 11,
+      "amount": 11.0,
       "unit": "TBSP"
     }
   ],
-  "fats": 21,
-  "fiber": 39,
+  "fats": 21.0,
+  "fiber": 39.0,
   "foodId": "food_87e2e875",
   "name": "Carom Seeds (Ajwain)",
-  "protein": 16,
-  "servingSize": 100,
+  "protein": 16.0,
+  "servingSize": 100.0,
   "servingUnit": "GRAM",
-  "sodium": 10,
-  "sugars": 0
+  "sodium": 10.0,
+  "sugars": 0.0
 }

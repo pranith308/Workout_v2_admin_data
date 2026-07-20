@@ -12,8 +12,8 @@
   "foodId": "food_60af79c3",
   "name": "Brown Rice",
   "protein": 7.5,
-  "servingSize": 100,
+  "servingSize": 100.0,
   "servingUnit": "GRAM",
-  "sodium": 4,
-  "sugars": 0
+  "sodium": 4.0,
+  "sugars": 0.0
 }
