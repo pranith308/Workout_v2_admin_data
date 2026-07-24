@@ -1,0 +1,19 @@
+{
+  "calories": 96.7,
+  "carbs": 3.4,
+  "equivalents": [
+    {
+      "amount": 0.4,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 4.3,
+  "fiber": 0.0,
+  "foodId": "food_ctt_chs_us_crm",
+  "name": "Cottage Cheese (US Creamed)",
+  "protein": 11.1,
+  "servingSize": 100.0,
+  "servingUnit": "GRAM",
+  "sodium": 364.0,
+  "sugars": 0.0
+}

@@ -1,23 +1,23 @@
 {
   "foods": [
     {
-      "foodId": "food_1a95b2c9",
+      "foodId": "food_crb_dmm",
       "quantity": 10.0
     },
     {
-      "foodId": "food_4061e778",
+      "foodId": "food_chc_tgh_ckd_wgh",
       "quantity": 1.1
     },
     {
-      "foodId": "food_fcbc8d63",
+      "foodId": "food_edb_oil",
       "quantity": 5.0
     },
     {
-      "foodId": "food_c5cba5dd",
+      "foodId": "food_lrg_egg",
       "quantity": 1.0
     },
     {
-      "foodId": "food_dc17e915",
+      "foodId": "food_unc_rto_org",
       "quantity": 1.0
     }
   ],

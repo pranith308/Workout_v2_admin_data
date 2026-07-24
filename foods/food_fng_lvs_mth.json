@@ -1,0 +1,19 @@
+{
+  "calories": 49.7,
+  "carbs": 6.0,
+  "equivalents": [
+    {
+      "amount": 3.0,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 0.9,
+  "fiber": 1.5,
+  "foodId": "food_fng_lvs_mth",
+  "name": "Fenugreek Leaves (Methi)",
+  "protein": 4.4,
+  "servingSize": 100.0,
+  "servingUnit": "GRAM",
+  "sodium": 67.0,
+  "sugars": 0.0
+}

@@ -1,0 +1,19 @@
+{
+  "calories": 366.2,
+  "carbs": 77.4,
+  "equivalents": [
+    {
+      "amount": 0.6,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 0.6,
+  "fiber": 5.0,
+  "foodId": "food_csc",
+  "name": "Couscous",
+  "protein": 12.8,
+  "servingSize": 100.0,
+  "servingUnit": "GRAM",
+  "sodium": 10.0,
+  "sugars": 0.0
+}

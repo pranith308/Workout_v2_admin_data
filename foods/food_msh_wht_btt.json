@@ -1,0 +1,19 @@
+{
+  "calories": 28.3,
+  "carbs": 3.3,
+  "equivalents": [
+    {
+      "amount": 1.4,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 0.3,
+  "fiber": 1.0,
+  "foodId": "food_msh_wht_btt",
+  "name": "Mushroom (White Button)",
+  "protein": 3.1,
+  "servingSize": 100.0,
+  "servingUnit": "GRAM",
+  "sodium": 5.0,
+  "sugars": 0.0
+}

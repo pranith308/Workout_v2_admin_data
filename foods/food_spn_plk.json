@@ -1,0 +1,19 @@
+{
+  "calories": 29.6,
+  "carbs": 3.6,
+  "equivalents": [
+    {
+      "amount": 3.3,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 0.4,
+  "fiber": 2.2,
+  "foodId": "food_spn_plk",
+  "name": "Spinach (Palak)",
+  "protein": 2.9,
+  "servingSize": 100.0,
+  "servingUnit": "GRAM",
+  "sodium": 79.0,
+  "sugars": 0.0
+}

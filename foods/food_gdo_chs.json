@@ -1,0 +1,19 @@
+{
+  "calories": 355.0,
+  "carbs": 2.2,
+  "equivalents": [
+    {
+      "amount": 0.9,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 27.4,
+  "fiber": 0.0,
+  "foodId": "food_gdo_chs",
+  "name": "Gouda Cheese",
+  "protein": 24.9,
+  "servingSize": 100.0,
+  "servingUnit": "GRAM",
+  "sodium": 819.0,
+  "sugars": 0.0
+}

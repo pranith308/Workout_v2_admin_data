@@ -1,0 +1,19 @@
+{
+  "calories": 202.6,
+  "carbs": 4.6,
+  "equivalents": [
+    {
+      "amount": 0.4,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 19.4,
+  "fiber": 0.0,
+  "foodId": "food_sro_crm",
+  "name": "Sour Cream",
+  "protein": 2.4,
+  "servingSize": 100.0,
+  "servingUnit": "GRAM",
+  "sodium": 50.0,
+  "sugars": 0.0
+}

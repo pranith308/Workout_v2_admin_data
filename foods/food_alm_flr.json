@@ -1,0 +1,19 @@
+{
+  "calories": 621.2,
+  "carbs": 21.4,
+  "equivalents": [
+    {
+      "amount": 1.0,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 50.0,
+  "fiber": 10.7,
+  "foodId": "food_alm_flr",
+  "name": "Almond Flour",
+  "protein": 21.4,
+  "servingSize": 100.0,
+  "servingUnit": "GRAM",
+  "sodium": 0.0,
+  "sugars": 0.0
+}

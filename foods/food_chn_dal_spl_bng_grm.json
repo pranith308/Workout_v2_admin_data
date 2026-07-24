@@ -1,0 +1,19 @@
+{
+  "calories": 376.8,
+  "carbs": 60.8,
+  "equivalents": [
+    {
+      "amount": 0.5,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 5.6,
+  "fiber": 18.0,
+  "foodId": "food_chn_dal_spl_bng_grm",
+  "name": "Chana Dal (Split Bengal Gram)",
+  "protein": 20.8,
+  "servingSize": 100.0,
+  "servingUnit": "GRAM",
+  "sodium": 10.0,
+  "sugars": 0.0
+}

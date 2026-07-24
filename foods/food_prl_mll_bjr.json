@@ -1,0 +1,19 @@
+{
+  "calories": 365.0,
+  "carbs": 67.5,
+  "equivalents": [
+    {
+      "amount": 0.7,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 5.4,
+  "fiber": 8.5,
+  "foodId": "food_prl_mll_bjr",
+  "name": "Pearl Millet (Bajra)",
+  "protein": 11.6,
+  "servingSize": 100.0,
+  "servingUnit": "GRAM",
+  "sodium": 10.0,
+  "sugars": 0.0
+}

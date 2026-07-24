@@ -1,0 +1,19 @@
+{
+  "calories": 612.1,
+  "carbs": 23.5,
+  "equivalents": [
+    {
+      "amount": 7.0,
+      "unit": "TBSP"
+    }
+  ],
+  "fats": 49.7,
+  "fiber": 11.8,
+  "foodId": "food_ssm_sds_til",
+  "name": "Sesame Seeds (Til)",
+  "protein": 17.7,
+  "servingSize": 100.0,
+  "servingUnit": "GRAM",
+  "sodium": 11.0,
+  "sugars": 0.0
+}

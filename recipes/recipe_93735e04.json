@@ -1,19 +1,19 @@
 {
   "foods": [
     {
-      "foodId": "food_1a95b2c9",
+      "foodId": "food_crb_dmm",
       "quantity": 10.0
     },
     {
-      "foodId": "food_fcbc8d63",
+      "foodId": "food_edb_oil",
       "quantity": 20.0
     },
     {
-      "foodId": "food_e5c0ca96",
+      "foodId": "food_egg_hst_ndl",
       "quantity": 1.0
     },
     {
-      "foodId": "food_c5cba5dd",
+      "foodId": "food_lrg_egg",
       "quantity": 1.0
     }
   ],

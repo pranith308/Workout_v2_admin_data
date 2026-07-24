@@ -1,0 +1,19 @@
+{
+  "calories": 92.4,
+  "carbs": 18.7,
+  "equivalents": [
+    {
+      "amount": 0.7,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 1.2,
+  "fiber": 4.0,
+  "foodId": "food_pmg_anr",
+  "name": "Pomegranate (Anar)",
+  "protein": 1.7,
+  "servingSize": 100.0,
+  "servingUnit": "GRAM",
+  "sodium": 3.0,
+  "sugars": 0.0
+}

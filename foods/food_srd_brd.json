@@ -1,0 +1,20 @@
+{
+  "barcode": "073132031112",
+  "calories": 122.36,
+  "carbs": 20.8,
+  "equivalents": [
+    {
+      "amount": 1.0,
+      "unit": "SERVING"
+    }
+  ],
+  "fats": 0.98,
+  "fiber": 1.95,
+  "foodId": "food_srd_brd",
+  "name": "Sourdough Bread",
+  "protein": 4.55,
+  "servingSize": 65.0,
+  "servingUnit": "GRAM",
+  "sodium": 208.0,
+  "sugars": 0.0
+}
