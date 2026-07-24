@@ -277,7 +277,7 @@
     "food_yogurt_curd_dahi",
     "food_zucchini"
   ],
-  "lastUpdatedTimestamp": "2026-07-24T21:53:51.466317Z",
+  "lastUpdatedTimestamp": "2026-07-24T21:58:41.608714Z",
   "meals": [
     "meal_chia_seeds_yogurt_fruits_protein_powder",
     "meal_full_day_meal_ideas",
@@ -364,10 +364,10 @@
     "media/gifs/wide_grip_Cable_rows.gif": "961f6b7e825040126b1f7c0e148f5cf4c6b2e0ac88d84760b37f8965aca223d8"
   },
   "recipes": [
-    "recipe_f6eacdec",
-    "recipe_93735e04",
-    "recipe_4d869b76",
-    "recipe_ed31bde2"
+    "recipe_chicken_egg_chapati_roll",
+    "recipe_egg_hakka_noodles",
+    "recipe_eggs_coffee_breakfast",
+    "recipe_protein_mango_yogurt"
   ],
   "templates": [
     "push_pull_legs",
