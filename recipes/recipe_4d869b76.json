@@ -1,15 +1,15 @@
 {
   "foods": [
     {
-      "foodId": "food_jgg_pwd",
+      "foodId": "food_jaggery_powder",
       "quantity": 1.0
     },
     {
-      "foodId": "food_lrg_egg",
+      "foodId": "food_large_egg",
       "quantity": 2.0
     },
     {
-      "foodId": "food_ult_flt_rdc_fat_mlk_2_lct_frr",
+      "foodId": "food_ultra_filter_reduced_fat_milk_2_lactose_free",
       "quantity": 1.0
     }
   ],

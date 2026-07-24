@@ -1,0 +1,19 @@
+{
+  "calories": 600.4,
+  "carbs": 8.7,
+  "equivalents": [
+    {
+      "amount": 10.0,
+      "unit": "TBSP"
+    }
+  ],
+  "fats": 48.8,
+  "fiber": 4.0,
+  "foodId": "food_hemp_seeds",
+  "name": "Hemp Seeds",
+  "protein": 31.6,
+  "servingSize": 100.0,
+  "servingUnit": "GRAM",
+  "sodium": 5.0,
+  "sugars": 0.0
+}

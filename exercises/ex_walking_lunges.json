@@ -1,0 +1,23 @@
+{
+  "commonMistakesText": "",
+  "cuesText": "",
+  "exerciseId": "ex_walking_lunges",
+  "exerciseType": "COMPOUND",
+  "instructionsText": "",
+  "isDeleted": false,
+  "lastUpdatedAt": "2026-07-09T03:31:33.277552Z",
+  "media": {
+    "gifs": [
+      "Walking_Lunges.gif"
+    ],
+    "images": [],
+    "videos": []
+  },
+  "name": "Walking Lunges",
+  "primaryMuscleGroup": "LEGS",
+  "secondaryMuscleGroups": [
+    "QUADS",
+    "GLUTES",
+    "HAMSTRINGS"
+  ]
+}

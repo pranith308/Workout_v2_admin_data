@@ -1,0 +1,19 @@
+{
+  "calories": 277.6,
+  "carbs": 2.2,
+  "equivalents": [
+    {
+      "amount": 0.9,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 20.0,
+  "fiber": 0.0,
+  "foodId": "food_mozzarella_cheese",
+  "name": "Mozzarella Cheese",
+  "protein": 22.2,
+  "servingSize": 100.0,
+  "servingUnit": "GRAM",
+  "sodium": 500.0,
+  "sugars": 0.0
+}

@@ -1,0 +1,22 @@
+{
+  "commonMistakesText": "",
+  "cuesText": "",
+  "exerciseId": "ex_chest_supported_db_rows",
+  "exerciseType": "ISOLATION",
+  "instructionsText": "",
+  "isDeleted": false,
+  "lastUpdatedAt": "2026-07-09T03:50:33.332111Z",
+  "media": {
+    "gifs": [
+      "Chest_supported_DB_rows.gif"
+    ],
+    "images": [],
+    "videos": []
+  },
+  "name": "Chest supported DB rows",
+  "primaryMuscleGroup": "BACK",
+  "secondaryMuscleGroups": [
+    "BACK",
+    "TRAPS"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "calories": 44.3,
+  "carbs": 9.5,
+  "equivalents": [
+    {
+      "amount": 0.7,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 0.3,
+  "fiber": 1.5,
+  "foodId": "food_peach",
+  "name": "Peach",
+  "protein": 0.9,
+  "servingSize": 100.0,
+  "servingUnit": "GRAM",
+  "sodium": 0.0,
+  "sugars": 0.0
+}

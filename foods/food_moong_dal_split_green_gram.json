@@ -1,0 +1,19 @@
+{
+  "calories": 348.4,
+  "carbs": 59.9,
+  "equivalents": [
+    {
+      "amount": 0.5,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 1.2,
+  "fiber": 16.3,
+  "foodId": "food_moong_dal_split_green_gram",
+  "name": "Moong Dal (Split Green Gram)",
+  "protein": 24.5,
+  "servingSize": 100.0,
+  "servingUnit": "GRAM",
+  "sodium": 15.0,
+  "sugars": 0.0
+}

@@ -1,19 +1,19 @@
 {
   "foods": [
     {
-      "foodId": "food_crb_dmm",
+      "foodId": "food_carb_dummy",
       "quantity": 10.0
     },
     {
-      "foodId": "food_edb_oil",
+      "foodId": "food_edible_oil",
       "quantity": 20.0
     },
     {
-      "foodId": "food_egg_hst_ndl",
+      "foodId": "food_egg_hasta_noodles",
       "quantity": 1.0
     },
     {
-      "foodId": "food_lrg_egg",
+      "foodId": "food_large_egg",
       "quantity": 1.0
     }
   ],

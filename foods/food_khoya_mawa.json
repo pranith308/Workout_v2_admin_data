@@ -1,0 +1,19 @@
+{
+  "calories": 139.3,
+  "carbs": 16.5,
+  "equivalents": [
+    {
+      "amount": 0.5,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 4.5,
+  "fiber": 0.0,
+  "foodId": "food_khoya_mawa",
+  "name": "Khoya (Mawa)",
+  "protein": 8.2,
+  "servingSize": 100.0,
+  "servingUnit": "GRAM",
+  "sodium": 80.0,
+  "sugars": 0.0
+}

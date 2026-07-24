@@ -1,0 +1,19 @@
+{
+  "calories": 43.8,
+  "carbs": 9.6,
+  "equivalents": [
+    {
+      "amount": 0.8,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 0.2,
+  "fiber": 2.8,
+  "foodId": "food_carrot",
+  "name": "Carrot",
+  "protein": 0.9,
+  "servingSize": 100.0,
+  "servingUnit": "GRAM",
+  "sodium": 69.0,
+  "sugars": 0.0
+}

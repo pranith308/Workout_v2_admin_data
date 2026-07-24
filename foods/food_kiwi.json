@@ -1,0 +1,19 @@
+{
+  "calories": 67.7,
+  "carbs": 14.7,
+  "equivalents": [
+    {
+      "amount": 0.6,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 0.5,
+  "fiber": 3.0,
+  "foodId": "food_kiwi",
+  "name": "Kiwi",
+  "protein": 1.1,
+  "servingSize": 100.0,
+  "servingUnit": "GRAM",
+  "sodium": 3.0,
+  "sugars": 0.0
+}

@@ -1,0 +1,23 @@
+{
+  "commonMistakesText": "",
+  "cuesText": "",
+  "exerciseId": "ex_t_bar_row",
+  "exerciseType": "ISOLATION",
+  "instructionsText": "",
+  "isDeleted": false,
+  "lastUpdatedAt": "2026-07-11T03:50:23.655771Z",
+  "media": {
+    "gifs": [
+      "T_bar_Row.gif"
+    ],
+    "images": [],
+    "videos": []
+  },
+  "name": "T bar Row",
+  "primaryMuscleGroup": "BACK",
+  "secondaryMuscleGroups": [
+    "LATS",
+    "RHOMBOIDS",
+    "BACK"
+  ]
+}

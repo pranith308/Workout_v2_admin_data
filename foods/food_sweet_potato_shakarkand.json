@@ -1,0 +1,19 @@
+{
+  "calories": 87.7,
+  "carbs": 20.1,
+  "equivalents": [
+    {
+      "amount": 0.7,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 0.1,
+  "fiber": 3.0,
+  "foodId": "food_sweet_potato_shakarkand",
+  "name": "Sweet Potato (Shakarkand)",
+  "protein": 1.6,
+  "servingSize": 100.0,
+  "servingUnit": "GRAM",
+  "sodium": 55.0,
+  "sugars": 0.0
+}

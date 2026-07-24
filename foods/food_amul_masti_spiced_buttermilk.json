@@ -1,0 +1,19 @@
+{
+  "barcode": "8901262200233",
+  "calories": 72.5,
+  "carbs": 4.5,
+  "equivalents": [
+    {
+      "amount": 1.0,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 3.75,
+  "foodId": "food_amul_masti_spiced_buttermilk",
+  "name": "Amul Masti Spiced Buttermilk",
+  "protein": 3.75,
+  "servingSize": 250.0,
+  "servingUnit": "MILLILITER",
+  "sodium": 620.0,
+  "sugars": 4.5
+}

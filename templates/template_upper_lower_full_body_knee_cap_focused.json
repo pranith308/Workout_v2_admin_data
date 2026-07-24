@@ -1,0 +1,30 @@
+{
+  "description": "focused on knee cap and Hip muscles",
+  "isDeleted": false,
+  "isPublic": false,
+  "lastUpdatedAt": "2026-06-03T23:43:44.692472",
+  "name": "Upper-Lower-Full Body (Knee cap focused)",
+  "notes": "(Kegel focused)",
+  "templateCode": "upper_lower_full_body_knee_cap_focused",
+  "templateId": "tpl_upper_lower_full_body_knee_cap_focused",
+  "workoutDays": [
+    {
+      "dayId": "522f7314-742b-4bb8-8e10-aa8175e44c80",
+      "exercises": [],
+      "name": "Upper Body",
+      "orderIndex": 0
+    },
+    {
+      "dayId": "3d3ba33f-1fa7-4c7b-8d33-dc7f44afa913",
+      "exercises": [],
+      "name": "Lower Body",
+      "orderIndex": 1
+    },
+    {
+      "dayId": "43510715-07bb-4d15-8a0d-7f908d94fa0e",
+      "exercises": [],
+      "name": "Full Body",
+      "orderIndex": 2
+    }
+  ]
+}

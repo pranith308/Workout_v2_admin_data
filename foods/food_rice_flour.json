@@ -1,0 +1,19 @@
+{
+  "calories": 356.6,
+  "carbs": 80.0,
+  "equivalents": [
+    {
+      "amount": 0.8,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 1.4,
+  "fiber": 2.4,
+  "foodId": "food_rice_flour",
+  "name": "Rice Flour",
+  "protein": 6.0,
+  "servingSize": 100.0,
+  "servingUnit": "GRAM",
+  "sodium": 0.0,
+  "sugars": 0.0
+}

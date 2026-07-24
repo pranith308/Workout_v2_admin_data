@@ -1,0 +1,19 @@
+{
+  "calories": 364.2,
+  "carbs": 1.5,
+  "equivalents": [
+    {
+      "amount": 0.9,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 27.8,
+  "fiber": 0.0,
+  "foodId": "food_swiss_cheese",
+  "name": "Swiss Cheese",
+  "protein": 27.0,
+  "servingSize": 100.0,
+  "servingUnit": "GRAM",
+  "sodium": 192.0,
+  "sugars": 0.0
+}

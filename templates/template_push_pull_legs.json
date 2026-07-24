@@ -1,0 +1,264 @@
+{
+  "description": "Classic PPL",
+  "isDeleted": false,
+  "isPublic": true,
+  "lastUpdatedAt": "2026-04-12T17:42:27.389918",
+  "name": "Push Pull Legs",
+  "notes": "Design Motivation:\n[PUSH][PULL][LEGS][REST][PUSH][PULL][LEGS][REST]\n\n1. Classic PPL format. \n2. Each muscle is targeted to hit 2 times/week.\n3. Each muscle gets 1 time heavy low rep, 1 time moderate high rep per week. \n4. Heavy Compound lifts are placed not to be in two consecutive days (easy on Joints).\n5. Good during high quality sleeps and nutrition. Recovery needs more priority for this Frequency.",
+  "templateCode": "push_pull_legs",
+  "templateId": "tpl_push_pull_legs",
+  "workoutDays": [
+    {
+      "dayId": "7a524f8a-5c2b-4b98-a134-22476d80567a",
+      "exercises": [
+        {
+          "defaultReps": 6,
+          "defaultSets": 3,
+          "exerciseId": "ex_flat_bench_press_bar",
+          "orderIndex": 0,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 8,
+          "defaultSets": 2,
+          "exerciseId": "ex_incline_press_db",
+          "orderIndex": 1,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 1,
+          "exerciseId": "ex_chest_fly_hightolow",
+          "orderIndex": 2,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 10,
+          "defaultSets": 2,
+          "exerciseId": "ex_shoulder_press_db",
+          "orderIndex": 3,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 2,
+          "exerciseId": "ex_lateral_raises",
+          "orderIndex": 4,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 3,
+          "exerciseId": "ex_tricep_rope_pushdown",
+          "orderIndex": 5,
+          "unit": "LB"
+        }
+      ],
+      "name": "PUSH_1",
+      "orderIndex": 0
+    },
+    {
+      "dayId": "6f6d15ad-c911-4858-a964-1e43b5d20030",
+      "exercises": [
+        {
+          "defaultReps": 12,
+          "defaultSets": 3,
+          "exerciseId": "ex_single_arm_chest_supported_lat_pull_down",
+          "orderIndex": 0,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 8,
+          "defaultSets": 3,
+          "exerciseId": "ex_single_arm_db_rows",
+          "orderIndex": 1,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 10,
+          "defaultSets": 3,
+          "exerciseId": "ex_wide_grip_cable_rows",
+          "orderIndex": 2,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 8,
+          "defaultSets": 3,
+          "exerciseId": "ex_incline_bench_bicep_curl",
+          "orderIndex": 3,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 2,
+          "exerciseId": "ex_preacher_curls",
+          "orderIndex": 4,
+          "unit": "LB"
+        }
+      ],
+      "name": "PULL_1",
+      "orderIndex": 1
+    },
+    {
+      "dayId": "cdcad3e4-07e3-41fb-9851-81b276189f1a",
+      "exercises": [
+        {
+          "defaultReps": 6,
+          "defaultSets": 3,
+          "exerciseId": "ex_barbell_back_squats",
+          "orderIndex": 0,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 8,
+          "defaultSets": 3,
+          "exerciseId": "ex_romanian_deadlifts_db",
+          "orderIndex": 1,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 2,
+          "exerciseId": "ex_leg_extensions",
+          "orderIndex": 2,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 10,
+          "defaultSets": 3,
+          "exerciseId": "ex_leg_curls_seated",
+          "orderIndex": 3,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 1,
+          "exerciseId": "ex_bulgarian_split_squats_glutes",
+          "orderIndex": 4,
+          "unit": "LB"
+        }
+      ],
+      "name": "LEGS_1",
+      "orderIndex": 2
+    },
+    {
+      "dayId": "ae28dc80-63ee-4eb5-8246-d03fcdba82df",
+      "exercises": [
+        {
+          "defaultReps": 8,
+          "defaultSets": 3,
+          "exerciseId": "ex_shoulder_press_bar",
+          "orderIndex": 0,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 8,
+          "defaultSets": 3,
+          "exerciseId": "ex_incline_press_db",
+          "orderIndex": 1,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 10,
+          "defaultSets": 2,
+          "exerciseId": "ex_flat_bench_press_db",
+          "orderIndex": 2,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 2,
+          "exerciseId": "ex_chest_fly_hightolow",
+          "orderIndex": 3,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 2,
+          "exerciseId": "ex_tricep_extensions",
+          "orderIndex": 4,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 10,
+          "defaultSets": 2,
+          "exerciseId": "ex_skull_crushers",
+          "orderIndex": 5,
+          "unit": "LB"
+        }
+      ],
+      "name": "PUSH_2",
+      "orderIndex": 3
+    },
+    {
+      "dayId": "a8ddd34b-797f-4816-ae75-042d32699352",
+      "exercises": [
+        {
+          "defaultReps": 6,
+          "defaultSets": 3,
+          "exerciseId": "ex_pendley_rows",
+          "orderIndex": 0,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 3,
+          "exerciseId": "ex_wide_grip_cable_rows",
+          "orderIndex": 1,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 10,
+          "defaultSets": 3,
+          "exerciseId": "ex_lat_pull_down",
+          "orderIndex": 2,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 10,
+          "defaultSets": 2,
+          "exerciseId": "ex_cable_rows",
+          "orderIndex": 3,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 8,
+          "defaultSets": 2,
+          "exerciseId": "ex_concentration_curls",
+          "orderIndex": 4,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 10,
+          "defaultSets": 2,
+          "exerciseId": "ex_behind_cable_curls",
+          "orderIndex": 5,
+          "unit": "LB"
+        }
+      ],
+      "name": "PULL_2",
+      "orderIndex": 4
+    },
+    {
+      "dayId": "b18576cd-0be2-4eb7-82d1-f12f46111e98",
+      "exercises": [
+        {
+          "defaultReps": 6,
+          "defaultSets": 3,
+          "exerciseId": "ex_conventional_deadlifts",
+          "orderIndex": 0,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 8,
+          "defaultSets": 2,
+          "exerciseId": "ex_leg_press_machine",
+          "orderIndex": 1,
+          "unit": "LB"
+        }
+      ],
+      "name": "LEGS_2",
+      "orderIndex": 5
+    }
+  ]
+}

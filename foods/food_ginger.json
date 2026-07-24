@@ -1,0 +1,19 @@
+{
+  "calories": 85.6,
+  "carbs": 17.8,
+  "equivalents": [
+    {
+      "amount": 10.0,
+      "unit": "TBSP"
+    }
+  ],
+  "fats": 0.8,
+  "fiber": 2.0,
+  "foodId": "food_ginger",
+  "name": "Ginger",
+  "protein": 1.8,
+  "servingSize": 100.0,
+  "servingUnit": "GRAM",
+  "sodium": 13.0,
+  "sugars": 0.0
+}

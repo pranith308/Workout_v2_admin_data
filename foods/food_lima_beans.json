@@ -1,0 +1,19 @@
+{
+  "calories": 345.9,
+  "carbs": 63.4,
+  "equivalents": [
+    {
+      "amount": 0.5,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 0.7,
+  "fiber": 19.0,
+  "foodId": "food_lima_beans",
+  "name": "Lima Beans",
+  "protein": 21.5,
+  "servingSize": 100.0,
+  "servingUnit": "GRAM",
+  "sodium": 18.0,
+  "sugars": 0.0
+}
