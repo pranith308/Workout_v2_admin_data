@@ -1,0 +1,19 @@
+{
+  "calories": 63.3,
+  "carbs": 15.2,
+  "equivalents": [
+    {
+      "amount": 0.6,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 0.1,
+  "fiber": 3.1,
+  "foodId": "food_pear",
+  "name": "Pear",
+  "protein": 0.4,
+  "servingSize": 100.0,
+  "servingUnit": "GRAM",
+  "sodium": 1.0,
+  "sugars": 0.0
+}

@@ -1,0 +1,27 @@
+{
+  "commonMistakesText": "",
+  "cuesText": "",
+  "exerciseId": "ex_shoulder_press_db",
+  "exerciseType": "COMPOUND",
+  "instructionsText": "",
+  "isDeleted": false,
+  "lastUpdatedAt": "2026-03-25T01:40:01.778453Z",
+  "media": {
+    "gifs": [
+      "Shoulder_press_-_DB.gif"
+    ],
+    "images": [
+      "Shoulder_press_-_DB_do_dont_1.webp",
+      "Shoulder_press_-_DB_do_dont_2.webp",
+      "Shoulder_press_-_DB_do_dont_3.webp",
+      "Shoulder_press_-_DB_do_dont_4.webp",
+      "Shoulder_press_-_DB_do_dont_5.gif"
+    ],
+    "videos": []
+  },
+  "name": "Shoulder press - DB",
+  "primaryMuscleGroup": "SHOULDERS",
+  "secondaryMuscleGroups": [
+    "CORE"
+  ]
+}

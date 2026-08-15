@@ -1,0 +1,59 @@
+{
+  "description": "sample",
+  "isDeleted": false,
+  "isPublic": true,
+  "lastUpdatedAt": "2026-07-26T12:09:52.296467",
+  "name": "Sample test",
+  "notes": "test",
+  "templateCode": "sample_test",
+  "templateId": "tpl_sample_test",
+  "workoutDays": [
+    {
+      "dayId": "7e8dbf4f-01f5-462f-b12b-c63237992c32",
+      "exercises": [
+        {
+          "defaultReps": 12,
+          "defaultSets": 3,
+          "exerciseId": "ex_banded_side_walks",
+          "orderIndex": 0,
+          "unit": "KG"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 3,
+          "exerciseId": "ex_barbell_back_squats",
+          "orderIndex": 1,
+          "unit": "KG"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 3,
+          "exerciseId": "ex_battle_ropes",
+          "orderIndex": 2,
+          "unit": "KG"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 3,
+          "exerciseId": "ex_behind_cable_curls",
+          "orderIndex": 3,
+          "unit": "KG"
+        }
+      ],
+      "name": "Day 2",
+      "orderIndex": 0
+    },
+    {
+      "dayId": "a5cba5cc-93e2-4131-92ca-f51c97bd7d5f",
+      "exercises": [],
+      "name": "Day 3",
+      "orderIndex": 1
+    },
+    {
+      "dayId": "684d625a-747b-4e30-bb87-e3450f96d3c5",
+      "exercises": [],
+      "name": "Day 4",
+      "orderIndex": 2
+    }
+  ]
+}

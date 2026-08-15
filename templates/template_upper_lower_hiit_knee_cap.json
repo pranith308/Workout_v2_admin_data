@@ -1,0 +1,215 @@
+{
+  "description": "Upper lower split with focus on\n1. hip stability and knee cap improvement\n2. sled pushes , HIIT",
+  "isDeleted": false,
+  "isPublic": true,
+  "lastUpdatedAt": "2026-06-14T14:04:51.999991",
+  "name": "Upper Lower (HIIT - knee cap)",
+  "notes": "",
+  "templateCode": "upper_lower_hiit_knee_cap",
+  "templateId": "tpl_upper_lower_hiit_knee_cap",
+  "workoutDays": [
+    {
+      "dayId": "bbd956ee-0460-429a-bc92-5b998801859b",
+      "exercises": [
+        {
+          "defaultReps": 8,
+          "defaultSets": 3,
+          "exerciseId": "ex_barbell_back_squats",
+          "orderIndex": 0,
+          "unit": "KG"
+        },
+        {
+          "defaultReps": 10,
+          "defaultSets": 4,
+          "exerciseId": "ex_romanian_deadlifts_db",
+          "orderIndex": 1,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 3,
+          "exerciseId": "ex_leg_extensions",
+          "orderIndex": 2,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 2,
+          "exerciseId": "ex_lying_hamstring_curls",
+          "orderIndex": 3,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 1,
+          "exerciseId": "ex_hip_adduction_abduction_machine",
+          "orderIndex": 4,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 0,
+          "defaultSets": 2,
+          "exerciseId": "ex_sled_push_and_pull",
+          "orderIndex": 5,
+          "unit": "LB"
+        }
+      ],
+      "name": "Lower (Quad dominant)",
+      "orderIndex": 0
+    },
+    {
+      "dayId": "e12d5c1f-1727-441a-8b80-3834fa304478",
+      "exercises": [
+        {
+          "defaultReps": 8,
+          "defaultSets": 4,
+          "exerciseId": "ex_flat_bench_press_db",
+          "orderIndex": 0,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 10,
+          "defaultSets": 3,
+          "exerciseId": "ex_shoulder_press_db",
+          "orderIndex": 1,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 2,
+          "exerciseId": "ex_chest_fly_hightolow",
+          "orderIndex": 2,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 3,
+          "exerciseId": "ex_neutral_grip_lat_pull_down",
+          "orderIndex": 3,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 8,
+          "defaultSets": 3,
+          "exerciseId": "ex_back_extensions",
+          "orderIndex": 4,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 2,
+          "exerciseId": "ex_cable_rows",
+          "orderIndex": 5,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 1,
+          "exerciseId": "ex_preacher_curls",
+          "orderIndex": 6,
+          "unit": "LB"
+        }
+      ],
+      "name": "Upper (Chest dominant)",
+      "orderIndex": 1
+    },
+    {
+      "dayId": "a7696fbc-f48a-4eb3-9f59-da7c9e9f21f4",
+      "exercises": [
+        {
+          "defaultReps": 6,
+          "defaultSets": 4,
+          "exerciseId": "ex_conventional_deadlifts",
+          "orderIndex": 0,
+          "unit": "KG"
+        },
+        {
+          "defaultReps": 10,
+          "defaultSets": 3,
+          "exerciseId": "ex_leg_press_machine",
+          "orderIndex": 1,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 2,
+          "exerciseId": "ex_lying_hamstring_curls",
+          "orderIndex": 2,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 10,
+          "defaultSets": 2,
+          "exerciseId": "ex_bulgarian_split_squat_quad",
+          "orderIndex": 3,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 0,
+          "defaultSets": 2,
+          "exerciseId": "ex_sled_push_and_pull",
+          "orderIndex": 4,
+          "unit": "LB"
+        }
+      ],
+      "name": "Lower (Hamstring dominant)",
+      "orderIndex": 2
+    },
+    {
+      "dayId": "05452667-eae3-480d-921a-4c65d153397f",
+      "exercises": [
+        {
+          "defaultReps": 10,
+          "defaultSets": 3,
+          "exerciseId": "ex_chest_supported_db_rows_wide_grip",
+          "orderIndex": 0,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 3,
+          "exerciseId": "ex_lat_pull_down",
+          "orderIndex": 1,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 8,
+          "defaultSets": 3,
+          "exerciseId": "ex_single_arm_db_rows",
+          "orderIndex": 2,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 8,
+          "defaultSets": 4,
+          "exerciseId": "ex_incline_press_db",
+          "orderIndex": 3,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 2,
+          "exerciseId": "ex_chest_press_machine",
+          "orderIndex": 4,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 2,
+          "exerciseId": "ex_tricep_bar_pushdown",
+          "orderIndex": 5,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 2,
+          "exerciseId": "ex_skull_crushers",
+          "orderIndex": 6,
+          "unit": "LB"
+        }
+      ],
+      "name": "Upper (Back dominant)",
+      "orderIndex": 3
+    }
+  ]
+}

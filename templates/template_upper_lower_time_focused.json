@@ -1,0 +1,180 @@
+{
+  "description": "Time focused",
+  "isDeleted": false,
+  "isPublic": true,
+  "lastUpdatedAt": "2026-07-13T21:38:30.780309",
+  "name": "Upper-Lower(Time focused)",
+  "notes": "",
+  "templateCode": "upper_lower_time_focused",
+  "templateId": "tpl_upper_lower_time_focused",
+  "workoutDays": [
+    {
+      "dayId": "197c02fd-5716-4df5-a778-688f82250ab0",
+      "exercises": [
+        {
+          "defaultReps": 5,
+          "defaultSets": 5,
+          "exerciseId": "ex_barbell_back_squats",
+          "orderIndex": 0,
+          "unit": "KG"
+        },
+        {
+          "defaultReps": 8,
+          "defaultSets": 3,
+          "exerciseId": "ex_romanian_deadlifts_barbell",
+          "orderIndex": 1,
+          "unit": "KG"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 3,
+          "exerciseId": "ex_lying_hamstring_curls",
+          "orderIndex": 2,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 2,
+          "exerciseId": "ex_walking_lunges",
+          "orderIndex": 3,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 10,
+          "defaultSets": 2,
+          "exerciseId": "ex_hip_adduction_abduction_machine",
+          "orderIndex": 4,
+          "unit": "LB"
+        }
+      ],
+      "name": "Lower A - Strength",
+      "orderIndex": 0
+    },
+    {
+      "dayId": "0ac17aff-df33-4ea6-adef-d6c72b7154ec",
+      "exercises": [
+        {
+          "defaultReps": 8,
+          "defaultSets": 5,
+          "exerciseId": "ex_incline_press_db",
+          "orderIndex": 0,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 3,
+          "exerciseId": "ex_t_bar_row",
+          "orderIndex": 1,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 3,
+          "exerciseId": "ex_shoulder_press_db",
+          "orderIndex": 2,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 10,
+          "defaultSets": 3,
+          "exerciseId": "ex_front_lat_pull_down",
+          "orderIndex": 3,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 2,
+          "exerciseId": "ex_chest_fly_hightolow",
+          "orderIndex": 4,
+          "unit": "LB"
+        }
+      ],
+      "name": "Upper A - Isolation",
+      "orderIndex": 1
+    },
+    {
+      "dayId": "401cf658-8038-48ba-87da-cce05718ee37",
+      "exercises": [
+        {
+          "defaultReps": 5,
+          "defaultSets": 5,
+          "exerciseId": "ex_trap_bar_deadlifts",
+          "orderIndex": 0,
+          "unit": "KG"
+        },
+        {
+          "defaultReps": 8,
+          "defaultSets": 3,
+          "exerciseId": "ex_hack_squat_machine",
+          "orderIndex": 1,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 3,
+          "exerciseId": "ex_leg_extensions",
+          "orderIndex": 2,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 10,
+          "defaultSets": 3,
+          "exerciseId": "ex_hip_thrust",
+          "orderIndex": 3,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 2,
+          "exerciseId": "ex_sled_push_and_pull",
+          "orderIndex": 4,
+          "unit": "LB"
+        }
+      ],
+      "name": "Lower B - Isolation",
+      "orderIndex": 2
+    },
+    {
+      "dayId": "b527540c-9d0d-434a-9dce-ea1d473351c4",
+      "exercises": [
+        {
+          "defaultReps": 5,
+          "defaultSets": 5,
+          "exerciseId": "ex_flat_bench_press_bar",
+          "orderIndex": 0,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 5,
+          "defaultSets": 5,
+          "exerciseId": "ex_pendley_rows",
+          "orderIndex": 1,
+          "unit": "KG"
+        },
+        {
+          "defaultReps": 8,
+          "defaultSets": 3,
+          "exerciseId": "ex_shoulder_press_bar",
+          "orderIndex": 2,
+          "unit": "KG"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 3,
+          "exerciseId": "ex_lat_pull_down",
+          "orderIndex": 3,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 30,
+          "defaultSets": 3,
+          "exerciseId": "ex_battle_ropes",
+          "orderIndex": 4,
+          "unit": "SECONDS"
+        }
+      ],
+      "name": "Upper B - Strength",
+      "orderIndex": 3
+    }
+  ]
+}
