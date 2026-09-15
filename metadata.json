@@ -63,6 +63,7 @@
     "ex_tricep_bar_pushdown",
     "ex_walking_lunges",
     "ex_abc_sample",
+    "ex_single_leg_rdl_dbs",
     "ex_warmup1",
     "ex_wide_grip_cable_rows"
   ],
@@ -280,7 +281,7 @@
     "food_yogurt_curd_dahi",
     "food_zucchini"
   ],
-  "lastUpdatedTimestamp": "2026-08-15T05:09:20.003849Z",
+  "lastUpdatedTimestamp": "2026-09-15T20:33:42.315709Z",
   "mealTags": [
     {
       "label": "Easy prep",
@@ -385,6 +386,7 @@
     "recipe_protein_mango_yogurt"
   ],
   "templates": [
+    "PAKKI_143",
     "PPL",
     "sample_test",
     "upper_lower_hiit_knee_cap",
