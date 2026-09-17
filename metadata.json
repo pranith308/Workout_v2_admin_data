@@ -281,7 +281,10 @@
     "food_yogurt_curd_dahi",
     "food_zucchini"
   ],
-  "lastUpdatedTimestamp": "2026-09-15T21:04:24.204803Z",
+  "ideaCategories": [
+    "cat_high_protein"
+  ],
+  "lastUpdatedTimestamp": "2026-09-17T20:30:00.000000Z",
   "mealTags": [
     {
       "label": "Easy prep",
