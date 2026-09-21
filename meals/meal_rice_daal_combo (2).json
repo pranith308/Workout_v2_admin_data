@@ -1,0 +1,23 @@
+{
+  "blocks": [
+    {
+      "text": "35-45 grams protein",
+      "type": "text"
+    },
+    {
+      "type": "video",
+      "url": "https://youtube.com/shorts/4r_L3h3Ynzg?si\u003dLXBy29lDYb7LE5Ma"
+    }
+  ],
+  "categoryIds": [
+    "cat_high_protein"
+  ],
+  "description": "35-45 grams protein",
+  "isUserLocal": false,
+  "lastUpdatedAt": "2026-03-09T23:15:31.047434Z",
+  "mealId": "meal_rice_daal_combo",
+  "summary": "35-45 grams protein",
+  "title": "Rice + Daal combo",
+  "vegNonVeg": "Veg",
+  "videoUrl": "https://youtube.com/shorts/4r_L3h3Ynzg?si\u003dLXBy29lDYb7LE5Ma"
+}

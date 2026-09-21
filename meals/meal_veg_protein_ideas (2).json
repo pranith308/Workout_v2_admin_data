@@ -1,0 +1,19 @@
+{
+  "blocks": [
+    {
+      "type": "video",
+      "url": "https://youtu.be/jMibssJTPEg?si\u003dsqz1QAt_Nw2cKEqg"
+    }
+  ],
+  "categoryIds": [
+    "cat_learn_the_basics"
+  ],
+  "description": "",
+  "isUserLocal": false,
+  "lastUpdatedAt": "2026-09-21T04:28:54.533450Z",
+  "mealId": "meal_veg_protein_ideas",
+  "summary": "",
+  "title": "Veg protein ideas",
+  "vegNonVeg": "Veg",
+  "videoUrl": "https://youtu.be/jMibssJTPEg?si\u003dsqz1QAt_Nw2cKEqg"
+}

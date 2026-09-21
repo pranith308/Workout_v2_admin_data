@@ -1,0 +1,28 @@
+{
+  "foods": [
+    {
+      "foodId": "food_carb_dummy",
+      "quantity": 10.0
+    },
+    {
+      "foodId": "food_chicken_tigh_cooked_weight",
+      "quantity": 1.1
+    },
+    {
+      "foodId": "food_edible_oil",
+      "quantity": 5.0
+    },
+    {
+      "foodId": "food_large_egg",
+      "quantity": 1.0
+    },
+    {
+      "foodId": "food_uncooked_roti_original",
+      "quantity": 1.0
+    }
+  ],
+  "mealId": "recipe_chicken_egg_chapati_roll",
+  "name": "Chicken Egg Chapati Roll",
+  "notes": "1.Base layer:\n1 almost cooked Chapati/tortilla on a one sided cooking omlette\n2. Add on pan roasted(spices of choices) veggies of choice, chicken, some low cal sauce and Wrap it\n\nTip: Use silver foil, it really help hold the wrap in place. Tear and Eat",
+  "tags": []
+}

@@ -1,0 +1,17 @@
+{
+  "commonMistakesText": "",
+  "cuesText": "",
+  "exerciseId": "ex_single_arm_cable_pull_down",
+  "exerciseType": "ISOLATION",
+  "instructionsText": "",
+  "isDeleted": false,
+  "lastUpdatedAt": "2026-08-11T20:45:08.528931Z",
+  "media": {
+    "gifs": [],
+    "images": [],
+    "videos": []
+  },
+  "name": "Single arm cable pull down",
+  "primaryMuscleGroup": "TRICEPS",
+  "secondaryMuscleGroups": []
+}

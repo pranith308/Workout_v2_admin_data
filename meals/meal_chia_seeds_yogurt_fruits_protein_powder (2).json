@@ -1,0 +1,20 @@
+{
+  "blocks": [
+    {
+      "type": "video",
+      "url": "https://youtube.com/shorts/hGuRgO4nBkM?si\u003dT1rJ9YhF-jMt-Fom"
+    }
+  ],
+  "categoryIds": [
+    "cat_high_protein",
+    "cat_dessert"
+  ],
+  "description": "",
+  "isUserLocal": false,
+  "lastUpdatedAt": "2026-09-21T04:27:18.054795Z",
+  "mealId": "meal_chia_seeds_yogurt_fruits_protein_powder",
+  "summary": "",
+  "title": "Chia seeds + yogurt + fruits + protein powder",
+  "vegNonVeg": "Veg",
+  "videoUrl": "https://youtube.com/shorts/hGuRgO4nBkM?si\u003dT1rJ9YhF-jMt-Fom"
+}

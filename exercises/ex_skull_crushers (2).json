@@ -1,0 +1,19 @@
+{
+  "commonMistakesText": "",
+  "cuesText": "",
+  "exerciseId": "ex_skull_crushers",
+  "exerciseType": "ISOLATION",
+  "instructionsText": "",
+  "isDeleted": false,
+  "lastUpdatedAt": "2026-02-12T00:09:33.322598Z",
+  "media": {
+    "gifs": [
+      "Skull_Crushers.gif"
+    ],
+    "images": [],
+    "videos": []
+  },
+  "name": "Skull Crushers",
+  "primaryMuscleGroup": "TRICEPS",
+  "secondaryMuscleGroups": []
+}

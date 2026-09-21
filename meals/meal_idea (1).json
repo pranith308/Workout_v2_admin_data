@@ -1,0 +1,20 @@
+{
+  "blocks": [
+    {
+      "type": "video",
+      "url": "https://www.instagram.com/reel/Dc-5JbGzIEG/?stkn\u003dZTdnbGw5YWIybDBt"
+    }
+  ],
+  "categoryIds": [
+    "cat_high_protein",
+    "cat_salads"
+  ],
+  "description": "",
+  "isUserLocal": false,
+  "lastUpdatedAt": "2026-09-21T04:05:27.130691Z",
+  "mealId": "meal_idea",
+  "summary": "",
+  "title": "Paneer Salad",
+  "vegNonVeg": "Veg",
+  "videoUrl": "https://www.instagram.com/reel/Dc-5JbGzIEG/?stkn\u003dZTdnbGw5YWIybDBt"
+}
