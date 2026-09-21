@@ -1,0 +1,19 @@
+{
+  "calories": 21.0,
+  "carbs": 3.9,
+  "equivalents": [
+    {
+      "amount": 0.6,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 0.2,
+  "fiber": 1.2,
+  "foodId": "food_tomato",
+  "name": "Tomato",
+  "protein": 0.9,
+  "servingSize": 100.0,
+  "servingUnit": "GRAM",
+  "sodium": 5.0,
+  "sugars": 0.0
+}

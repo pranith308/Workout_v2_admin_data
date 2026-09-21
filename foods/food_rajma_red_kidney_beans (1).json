@@ -1,0 +1,19 @@
+{
+  "calories": 342.0,
+  "carbs": 60.1,
+  "equivalents": [
+    {
+      "amount": 0.5,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 0.8,
+  "fiber": 24.9,
+  "foodId": "food_rajma_red_kidney_beans",
+  "name": "Rajma (Red Kidney Beans)",
+  "protein": 23.6,
+  "servingSize": 100.0,
+  "servingUnit": "GRAM",
+  "sodium": 24.0,
+  "sugars": 0.0
+}

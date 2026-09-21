@@ -1,0 +1,19 @@
+{
+  "calories": 335.7,
+  "carbs": 62.9,
+  "equivalents": [
+    {
+      "amount": 0.5,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 0.5,
+  "fiber": 12.7,
+  "foodId": "food_adzuki_beans",
+  "name": "Adzuki Beans",
+  "protein": 19.9,
+  "servingSize": 100.0,
+  "servingUnit": "GRAM",
+  "sodium": 5.0,
+  "sugars": 0.0
+}

@@ -1,0 +1,20 @@
+{
+  "commonMistakesText": "",
+  "cuesText": "",
+  "exerciseId": "ex_single_leg_rdl_dbs",
+  "exerciseType": "ISOLATION",
+  "instructionsText": "",
+  "isDeleted": false,
+  "lastUpdatedAt": "2026-09-15T20:33:05.732510Z",
+  "media": {
+    "gifs": [],
+    "images": [],
+    "videos": []
+  },
+  "name": "single leg RDL DBs",
+  "primaryMuscleGroup": "LEGS",
+  "secondaryMuscleGroups": [
+    "HAMSTRINGS",
+    "GLUTES"
+  ]
+}

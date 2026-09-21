@@ -1,0 +1,25 @@
+{
+  "blocks": [
+    {
+      "type": "video",
+      "url": "https://youtube.com/shorts/Bo7r82RJjhQ?is\u003dbtKtnk_Q-fA2_IPg"
+    },
+    {
+      "text": "use salads",
+      "title": "base",
+      "type": "text"
+    }
+  ],
+  "categoryIds": [
+    "cat_high_protein",
+    "cat_dessert"
+  ],
+  "description": "use salads",
+  "isUserLocal": true,
+  "lastUpdatedAt": "2026-09-18T02:06:55.663831Z",
+  "mealId": "meal_dessert_1",
+  "summary": "use salads",
+  "title": "dessert 1",
+  "vegNonVeg": "Veg",
+  "videoUrl": "https://youtube.com/shorts/Bo7r82RJjhQ?is\u003dbtKtnk_Q-fA2_IPg"
+}

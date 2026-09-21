@@ -1,0 +1,23 @@
+{
+  "foods": [
+    {
+      "foodId": "food_gold_standard_100_whey_banana_cream",
+      "quantity": 0.5
+    },
+    {
+      "foodId": "food_greek_yogurt_green_mountain",
+      "quantity": 1.0
+    },
+    {
+      "foodId": "food_kesar_mango_pulp",
+      "quantity": 0.5
+    },
+    {
+      "foodId": "food_tooti_frooti",
+      "quantity": 1.0
+    }
+  ],
+  "mealId": "recipe_protein_mango_yogurt",
+  "name": "Protein Mango Yogurt",
+  "tags": []
+}

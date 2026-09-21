@@ -1,0 +1,21 @@
+{
+  "blocks": [
+    {
+      "fileName": "",
+      "type": "photo"
+    },
+    {
+      "text": "",
+      "type": "text"
+    }
+  ],
+  "categoryIds": [],
+  "description": "",
+  "isUserLocal": false,
+  "lastUpdatedAt": "2026-09-17T21:08:28.167002Z",
+  "mealId": "meal_salad_blueprint",
+  "summary": "test 123",
+  "title": "Salad Blueprint",
+  "vegNonVeg": "Veg",
+  "videoUrl": ""
+}

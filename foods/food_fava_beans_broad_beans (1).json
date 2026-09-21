@@ -1,0 +1,19 @@
+{
+  "calories": 351.1,
+  "carbs": 58.3,
+  "equivalents": [
+    {
+      "amount": 0.5,
+      "unit": "CUP"
+    }
+  ],
+  "fats": 1.5,
+  "fiber": 25.0,
+  "foodId": "food_fava_beans_broad_beans",
+  "name": "Fava Beans (Broad Beans)",
+  "protein": 26.1,
+  "servingSize": 100.0,
+  "servingUnit": "GRAM",
+  "sodium": 13.0,
+  "sugars": 0.0
+}

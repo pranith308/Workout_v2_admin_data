@@ -1,0 +1,187 @@
+{
+  "description": "Completely time/Minimalist workout",
+  "isDeleted": false,
+  "isPublic": true,
+  "lastUpdatedAt": "2026-08-11T13:45:33.721558",
+  "name": "Upper Lower Full",
+  "notes": "Day 4 is purely optional",
+  "templateCode": "ULF",
+  "templateId": "tpl_ULF",
+  "workoutDays": [
+    {
+      "dayId": "d527c234-6355-434e-adce-3a1b1a37bee5",
+      "exercises": [
+        {
+          "defaultReps": 8,
+          "defaultSets": 4,
+          "exerciseId": "ex_barbell_back_squats",
+          "orderIndex": 0,
+          "unit": "KG"
+        },
+        {
+          "defaultReps": 5,
+          "defaultSets": 4,
+          "exerciseId": "ex_conventional_deadlifts",
+          "orderIndex": 1,
+          "unit": "KG"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 3,
+          "exerciseId": "ex_lying_hamstring_curls",
+          "orderIndex": 2,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 3,
+          "exerciseId": "ex_walking_lunges",
+          "orderIndex": 3,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 2,
+          "exerciseId": "ex_hip_thrust",
+          "orderIndex": 4,
+          "unit": "LB"
+        }
+      ],
+      "name": "Lower",
+      "orderIndex": 0
+    },
+    {
+      "dayId": "87a0fa64-dbbb-465c-8350-a51250fa2374",
+      "exercises": [
+        {
+          "defaultReps": 6,
+          "defaultSets": 5,
+          "exerciseId": "ex_flat_bench_press_db",
+          "orderIndex": 0,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 3,
+          "exerciseId": "ex_neutral_grip_lat_pull_down",
+          "orderIndex": 1,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 10,
+          "defaultSets": 4,
+          "exerciseId": "ex_shoulder_press_bar",
+          "orderIndex": 2,
+          "unit": "KG"
+        },
+        {
+          "defaultReps": 8,
+          "defaultSets": 4,
+          "exerciseId": "ex_barbell_rows",
+          "orderIndex": 3,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 2,
+          "exerciseId": "ex_chest_fly_hightolow",
+          "orderIndex": 4,
+          "unit": "LB"
+        }
+      ],
+      "name": "Upper",
+      "orderIndex": 1
+    },
+    {
+      "dayId": "a63e7eb1-aa44-4f38-a20a-9210c950212c",
+      "exercises": [
+        {
+          "defaultReps": 8,
+          "defaultSets": 5,
+          "exerciseId": "ex_hack_squat_machine",
+          "orderIndex": 0,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 8,
+          "defaultSets": 5,
+          "exerciseId": "ex_incline_press_db",
+          "orderIndex": 1,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 10,
+          "defaultSets": 4,
+          "exerciseId": "ex_romanian_deadlifts_db",
+          "orderIndex": 2,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 4,
+          "exerciseId": "ex_cable_rows",
+          "orderIndex": 3,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 4,
+          "exerciseId": "ex_front_lat_pull_down",
+          "orderIndex": 4,
+          "unit": "LB"
+        }
+      ],
+      "name": "Full",
+      "orderIndex": 2
+    },
+    {
+      "dayId": "c37a541e-fba4-4902-9c74-303947861581",
+      "exercises": [
+        {
+          "defaultReps": 8,
+          "defaultSets": 4,
+          "exerciseId": "ex_shoulder_press_bar",
+          "orderIndex": 0,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 3,
+          "exerciseId": "ex_lateral_raises",
+          "orderIndex": 1,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 8,
+          "defaultSets": 3,
+          "exerciseId": "ex_incline_bench_bicep_curl",
+          "orderIndex": 2,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 4,
+          "exerciseId": "ex_skull_crushers",
+          "orderIndex": 3,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 3,
+          "exerciseId": "ex_preacher_curls",
+          "orderIndex": 4,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 2,
+          "exerciseId": "ex_single_arm_cable_pull_down",
+          "orderIndex": 5,
+          "unit": "LB"
+        }
+      ],
+      "name": "Arms/Shoulders (Optional)",
+      "orderIndex": 3
+    }
+  ]
+}

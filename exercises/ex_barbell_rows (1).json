@@ -1,0 +1,21 @@
+{
+  "commonMistakesText": "",
+  "cuesText": "",
+  "exerciseId": "ex_barbell_rows",
+  "exerciseType": "COMPOUND",
+  "instructionsText": "",
+  "isDeleted": false,
+  "lastUpdatedAt": "2026-08-07T19:11:41.136996Z",
+  "media": {
+    "gifs": [],
+    "images": [],
+    "videos": []
+  },
+  "name": "Barbell Rows",
+  "primaryMuscleGroup": "BACK",
+  "secondaryMuscleGroups": [
+    "RHOMBOIDS",
+    "TRAPS",
+    "LATS"
+  ]
+}

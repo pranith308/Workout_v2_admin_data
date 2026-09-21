@@ -1,0 +1,22 @@
+{
+  "commonMistakesText": "",
+  "cuesText": "",
+  "exerciseId": "ex_front_lat_pull_down",
+  "exerciseType": "ISOLATION",
+  "instructionsText": "",
+  "isDeleted": false,
+  "lastUpdatedAt": "2026-07-11T04:09:11.032693Z",
+  "media": {
+    "gifs": [
+      "Front_Lat_Pull_Down.gif"
+    ],
+    "images": [],
+    "videos": []
+  },
+  "name": "Front Lat Pull Down",
+  "primaryMuscleGroup": "BACK",
+  "secondaryMuscleGroups": [
+    "BACK",
+    "LATS"
+  ]
+}

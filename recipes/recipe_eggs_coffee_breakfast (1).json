@@ -1,0 +1,19 @@
+{
+  "foods": [
+    {
+      "foodId": "food_jaggery_powder",
+      "quantity": 1.0
+    },
+    {
+      "foodId": "food_large_egg",
+      "quantity": 2.0
+    },
+    {
+      "foodId": "food_ultra_filter_reduced_fat_milk_2_lactose_free",
+      "quantity": 1.0
+    }
+  ],
+  "mealId": "recipe_eggs_coffee_breakfast",
+  "name": "Eggs-Coffee Breakfast",
+  "tags": []
+}

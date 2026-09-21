@@ -1,0 +1,21 @@
+{
+  "commonMistakesText": "",
+  "cuesText": "",
+  "exerciseId": "ex_lat_pull_down",
+  "exerciseType": "ISOLATION",
+  "instructionsText": "",
+  "isDeleted": false,
+  "lastUpdatedAt": "2026-06-09T22:50:45.325330Z",
+  "media": {
+    "gifs": [
+      "Lat_Pull_down.gif"
+    ],
+    "images": [],
+    "videos": []
+  },
+  "name": "Lat Pull down",
+  "primaryMuscleGroup": "BACK",
+  "secondaryMuscleGroups": [
+    "LATS"
+  ]
+}

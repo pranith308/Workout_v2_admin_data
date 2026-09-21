@@ -1,0 +1,19 @@
+{
+  "blocks": [
+    {
+      "type": "video",
+      "url": "https://youtu.be/jMibssJTPEg?si\u003dsqz1QAt_Nw2cKEqg"
+    }
+  ],
+  "categoryIds": [
+    "cat_high_protein"
+  ],
+  "description": "",
+  "isUserLocal": false,
+  "lastUpdatedAt": "2026-04-09T23:47:17.714033Z",
+  "mealId": "meal_veg_protein_ideas",
+  "summary": "",
+  "title": "Veg protein ideas",
+  "vegNonVeg": "Veg",
+  "videoUrl": "https://youtu.be/jMibssJTPEg?si\u003dsqz1QAt_Nw2cKEqg"
+}
