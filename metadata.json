@@ -281,20 +281,24 @@
     "food_yogurt_curd_dahi",
     "food_zucchini"
   ],
-  "lastUpdatedTimestamp": "2026-09-15T21:04:24.204803Z",
+  "ideaCategories": [
+    "cat_high_protein",
+    "cat_dessert",
+    "cat_salads"
+  ],
+  "lastUpdatedTimestamp": "2026-09-21T03:21:34.103304Z",
   "mealTags": [
     {
       "label": "Easy prep",
       "sortOrder": 0,
       "tagId": "easy_prep"
-    },
-    {
-      "label": "Dessert",
-      "sortOrder": 1,
-      "tagId": "tag_dessert"
     }
   ],
   "meals": [
+    "meal_idea",
+    "meal_salad_blueprint_2",
+    "meal_dessert_1",
+    "meal_salad_blueprint",
     "meal_veg_protein_ideas",
     "meal_soya_moong_patty",
     "meal_full_day_meal_ideas",
@@ -302,6 +306,7 @@
     "meal_rice_daal_combo"
   ],
   "mediaHashes": {
+    "media/images/idea_Salad_Blueprint_1.webp": "c1b748c72dcfdac1bb45febafd21bd299edbbd4b142df795f9fd82a040aca2b6",
     "media/gifs/Back_extensions.gif": "b76cd565c378b4677f5a3cc2083821d83eeaba101773f5324b42c34a370eaaf5",
     "media/gifs/Barbell_Squats.gif": "d371660666055877811a7f3225afd3cf543280a9ca48ca9d96a17b2d4d01c651",
     "media/gifs/Battle_ropes.gif": "0f7735473bad51041f3fad75e05b35275af467090357d04026ccb6b352413f6d",
