@@ -1,0 +1,17 @@
+{
+  "commonMistakesText": "",
+  "cuesText": "",
+  "exerciseId": "ex_coppenhgen_plank",
+  "exerciseType": "ISOLATION",
+  "instructionsText": "",
+  "isDeleted": false,
+  "lastUpdatedAt": "2026-10-01T00:19:36.190882Z",
+  "media": {
+    "gifs": [],
+    "images": [],
+    "videos": []
+  },
+  "name": "Coppenhgen Plank",
+  "primaryMuscleGroup": "LEGS",
+  "secondaryMuscleGroups": []
+}

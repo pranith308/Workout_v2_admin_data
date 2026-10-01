@@ -23,6 +23,7 @@
     "ex_chest_supported_wide_grip_row_machine",
     "ex_concentration_curls",
     "ex_conventional_deadlifts",
+    "ex_coppenhgen_plank",
     "ex_db_step_ups",
     "ex_flat_bench_press_bar",
     "ex_flat_bench_press_db",
@@ -283,10 +284,11 @@
   ],
   "ideaCategories": [
     "cat_high_protein",
-    "cat_dessert",
-    "cat_salads"
+    "cat_salads",
+    "cat_desserts",
+    "cat_learn_the_basics"
   ],
-  "lastUpdatedTimestamp": "2026-09-21T03:21:34.103304Z",
+  "lastUpdatedTimestamp": "2026-10-01T00:21:49.388915Z",
   "mealTags": [
     {
       "label": "Easy prep",
@@ -295,14 +297,11 @@
     }
   ],
   "meals": [
+    "meal_chia_seeds_yogurt_fruits_protein_powder",
+    "meal_veg_protein_ideas",
     "meal_idea",
     "meal_salad_blueprint_2",
-    "meal_dessert_1",
-    "meal_salad_blueprint",
-    "meal_veg_protein_ideas",
     "meal_soya_moong_patty",
-    "meal_full_day_meal_ideas",
-    "meal_chia_seeds_yogurt_fruits_protein_powder",
     "meal_rice_daal_combo"
   ],
   "mediaHashes": {
@@ -393,12 +392,10 @@
   "templates": [
     "PAKKI_143",
     "PPL",
-    "sample_test",
     "upper_lower_hiit_knee_cap",
-    "ULF",
     "upper_lower_workout",
+    "UL_C",
     "upper_lower_time_focused",
-    "upper_lower_full_body",
-    "upper_lower_full_body_knee_cap_focused"
+    "upper_lower_full_body"
   ]
 }

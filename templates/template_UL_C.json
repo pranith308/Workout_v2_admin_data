@@ -1,0 +1,180 @@
+{
+  "description": "Time focused and beginner friendly to learn all",
+  "isDeleted": false,
+  "isPublic": true,
+  "lastUpdatedAt": "2026-09-30T17:19:55.826585",
+  "name": "Upper-Lower Classic",
+  "notes": "",
+  "templateCode": "UL_C",
+  "templateId": "tpl_upper_lower_time_focused_d",
+  "workoutDays": [
+    {
+      "dayId": "18b23cb3-41af-4c41-8fd0-f68dc674f61c",
+      "exercises": [
+        {
+          "defaultReps": 8,
+          "defaultSets": 4,
+          "exerciseId": "ex_romanian_deadlifts_db",
+          "orderIndex": 0,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 6,
+          "defaultSets": 4,
+          "exerciseId": "ex_barbell_back_squats",
+          "orderIndex": 1,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 2,
+          "exerciseId": "ex_lying_hamstring_curls",
+          "orderIndex": 2,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 2,
+          "exerciseId": "ex_walking_lunges",
+          "orderIndex": 3,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 1,
+          "exerciseId": "ex_banded_side_walks",
+          "orderIndex": 4,
+          "unit": "LB"
+        }
+      ],
+      "name": "Lower - Quad dominant",
+      "orderIndex": 0
+    },
+    {
+      "dayId": "e9e5a8ab-3ef6-46eb-8db5-9fda9f5198a7",
+      "exercises": [
+        {
+          "defaultReps": 8,
+          "defaultSets": 4,
+          "exerciseId": "ex_incline_press_db",
+          "orderIndex": 0,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 10,
+          "defaultSets": 4,
+          "exerciseId": "ex_front_lat_pull_down",
+          "orderIndex": 1,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 2,
+          "exerciseId": "ex_chest_fly_hightolow",
+          "orderIndex": 2,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 3,
+          "exerciseId": "ex_cable_rows",
+          "orderIndex": 3,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 15,
+          "defaultSets": 2,
+          "exerciseId": "ex_tricep_extensions",
+          "orderIndex": 4,
+          "unit": "LB"
+        }
+      ],
+      "name": "Upper - Chest dominant",
+      "orderIndex": 1
+    },
+    {
+      "dayId": "54a5d61a-f0db-43b8-833b-92391a9c2d9a",
+      "exercises": [
+        {
+          "defaultReps": 12,
+          "defaultSets": 4,
+          "exerciseId": "ex_leg_press_machine",
+          "orderIndex": 0,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 6,
+          "defaultSets": 4,
+          "exerciseId": "ex_conventional_deadlifts",
+          "orderIndex": 1,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 2,
+          "exerciseId": "ex_leg_extensions",
+          "orderIndex": 2,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 2,
+          "exerciseId": "ex_single_leg_rdl_dbs",
+          "orderIndex": 3,
+          "unit": "KG"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 2,
+          "exerciseId": "ex_coppenhgen_plank",
+          "orderIndex": 4,
+          "unit": "LB"
+        }
+      ],
+      "name": "Lower - Hams dominant",
+      "orderIndex": 2
+    },
+    {
+      "dayId": "51b6b419-6baf-4bde-988a-35784ce74dfd",
+      "exercises": [
+        {
+          "defaultReps": 12,
+          "defaultSets": 4,
+          "exerciseId": "ex_neutral_grip_lat_pull_down",
+          "orderIndex": 0,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 8,
+          "defaultSets": 3,
+          "exerciseId": "ex_flat_bench_press_bar",
+          "orderIndex": 1,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 10,
+          "defaultSets": 4,
+          "exerciseId": "ex_single_arm_db_rows",
+          "orderIndex": 2,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 12,
+          "defaultSets": 2,
+          "exerciseId": "ex_chest_fly",
+          "orderIndex": 3,
+          "unit": "LB"
+        },
+        {
+          "defaultReps": 10,
+          "defaultSets": 3,
+          "exerciseId": "ex_bicep_curls_db",
+          "orderIndex": 4,
+          "unit": "LB"
+        }
+      ],
+      "name": "Upper - Back dominant",
+      "orderIndex": 3
+    }
+  ]
+}
