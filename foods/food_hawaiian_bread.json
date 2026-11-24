@@ -1,0 +1,20 @@
+{
+  "barcode": "072250014991",
+  "calories": 70.0,
+  "carbs": 15.0,
+  "equivalents": [
+    {
+      "amount": 1.0,
+      "unit": "PIECE"
+    }
+  ],
+  "fats": 0.5,
+  "fiber": 0.0,
+  "foodId": "food_hawaiian_bread",
+  "name": "Hawaiian Bread",
+  "protein": 2.0,
+  "servingSize": 26.0,
+  "servingUnit": "GRAM",
+  "sodium": 90.0,
+  "sugars": 3.0
+}

@@ -172,6 +172,7 @@
     "food_green_peas_fresh",
     "food_green_split_peas",
     "food_guava_amrood",
+    "food_hawaiian_bread",
     "food_hazelnut",
     "food_heavy_cream_malai",
     "food_hemp_seeds",
@@ -288,7 +289,7 @@
     "cat_desserts",
     "cat_learn_the_basics"
   ],
-  "lastUpdatedTimestamp": "2026-10-01T00:21:49.388915Z",
+  "lastUpdatedTimestamp": "2026-11-24T14:25:21.698036Z",
   "mealTags": [
     {
       "label": "Easy prep",
@@ -297,11 +298,11 @@
     }
   ],
   "meals": [
-    "meal_chia_seeds_yogurt_fruits_protein_powder",
-    "meal_veg_protein_ideas",
     "meal_idea",
     "meal_salad_blueprint_2",
+    "meal_veg_protein_ideas",
     "meal_soya_moong_patty",
+    "meal_chia_seeds_yogurt_fruits_protein_powder",
     "meal_rice_daal_combo"
   ],
   "mediaHashes": {
