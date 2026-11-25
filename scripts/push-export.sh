@@ -17,6 +17,7 @@ set -euo pipefail
 git() { command git -c safe.directory='*' "$@"; }
 
 ORIGIN="https://github.com/pranith308/Workout_v2_admin_data.git"
+SSH_ORIGIN="git@github.com:pranith308/Workout_v2_admin_data.git"
 
 SCRIPT_DIR=$(cd "$(dirname "$0")" && pwd)
 if [ -f "$SCRIPT_DIR/../metadata.json" ]; then
@@ -55,7 +56,7 @@ commit_and_push() {
   if git diff --cached --quiet; then
     echo "No new export changes to commit."
   else
-    git commit --trailer "Co-authored-by: Cursor <cursoragent@cursor.com>" -m "Publish admin export $(date '+%Y-%m-%d %H:%M')"
+    git commit -m "Publish admin export $(date '+%Y-%m-%d %H:%M')"
   fi
 
   integrate
@@ -90,6 +91,19 @@ integrate() {
   exit 1
 }
 
+use_phone_ssh() {
+  export GIT_SSH_COMMAND="ssh -o StrictHostKeyChecking=accept-new -i ${HOME}/.ssh/id_ed25519"
+  if [ ! -f "${HOME}/.ssh/id_ed25519" ]; then
+    echo "No SSH key at ~/.ssh/id_ed25519. Create it, add the public key on GitHub, then run this again." >&2
+    exit 1
+  fi
+  if git remote get-url origin >/dev/null 2>&1; then
+    git remote set-url origin "$SSH_ORIGIN"
+  else
+    git remote add origin "$SSH_ORIGIN"
+  fi
+}
+
 publish_phone() {
   if ! command -v git >/dev/null 2>&1; then
     echo "Install git first: pkg install git" >&2
@@ -101,11 +115,13 @@ publish_phone() {
     echo "First run: attaching GitHub history. Your export files stay in place."
     local tmp
     tmp=$(mktemp -d)
-    git clone --no-checkout "$ORIGIN" "$tmp/clone"
+    GIT_SSH_COMMAND="ssh -o StrictHostKeyChecking=accept-new -i ${HOME}/.ssh/id_ed25519" \
+      git clone --no-checkout "$SSH_ORIGIN" "$tmp/clone"
     mv "$tmp/clone/.git" .git
     rm -rf "$tmp"
     git reset -q
   fi
+  use_phone_ssh
   drop_numbered_copies "$SRC"
   commit_and_push
 }
