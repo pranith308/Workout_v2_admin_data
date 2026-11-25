@@ -1,0 +1,36 @@
+{
+  "description": "upper lower but minimalist",
+  "isDeleted": false,
+  "isPublic": true,
+  "lastUpdatedAt": "2026-11-24T14:37:43.093733Z",
+  "name": "Upper Lower x 2",
+  "notes": "",
+  "templateCode": "PAKKI_143_2",
+  "templateId": "tpl_PAKKI_143_2",
+  "workoutDays": [
+    {
+      "dayId": "5c4b1f0d-667c-4cf1-9f8e-4558b1969a60",
+      "exercises": [],
+      "name": "Day 1",
+      "orderIndex": 0
+    },
+    {
+      "dayId": "8fa49f20-42e8-45ae-b9d3-b5f752daa93f",
+      "exercises": [],
+      "name": "Day 2",
+      "orderIndex": 1
+    },
+    {
+      "dayId": "1656070c-6c79-4521-8227-56c7b46b4354",
+      "exercises": [],
+      "name": "Day 3",
+      "orderIndex": 2
+    },
+    {
+      "dayId": "c699f690-d295-48ff-87fa-067a9457588d",
+      "exercises": [],
+      "name": "Day 4",
+      "orderIndex": 3
+    }
+  ]
+}
