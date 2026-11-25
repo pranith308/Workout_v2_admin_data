@@ -5,7 +5,7 @@
   "exerciseType": "ISOLATION",
   "instructionsText": "",
   "isDeleted": false,
-  "lastUpdatedAt": "2026-08-15T05:09:07.156066Z",
+  "lastUpdatedAt": "2026-11-25T14:53:51.756718Z",
   "media": {
     "gifs": [],
     "images": [],
@@ -14,6 +14,7 @@
   "name": "abc sample",
   "primaryMuscleGroup": "CHEST",
   "secondaryMuscleGroups": [
-    "BACK"
+    "BACK",
+    "HAMSTRINGS"
   ]
 }

@@ -2,7 +2,7 @@
   "description": "upper lower but minimalist",
   "isDeleted": false,
   "isPublic": true,
-  "lastUpdatedAt": "2026-11-24T14:37:43.093733Z",
+  "lastUpdatedAt": "2026-11-25T08:57:20.502921",
   "name": "Upper Lower x 2",
   "notes": "",
   "templateCode": "PAKKI_143_2",
@@ -10,8 +10,16 @@
   "workoutDays": [
     {
       "dayId": "5c4b1f0d-667c-4cf1-9f8e-4558b1969a60",
-      "exercises": [],
-      "name": "Day 1",
+      "exercises": [
+        {
+          "defaultReps": 12,
+          "defaultSets": 2,
+          "exerciseId": "ex_hack_squat_machine",
+          "orderIndex": 0,
+          "unit": "LB"
+        }
+      ],
+      "name": "Leg Day",
       "orderIndex": 0
     },
     {
